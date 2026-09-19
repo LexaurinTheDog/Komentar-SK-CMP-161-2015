@@ -2,7 +2,7 @@
 
 ### § 271
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 271**
 >
 > Trovy dôkazov platí štát.
@@ -13,7 +13,7 @@ Ustanovenie uzatvára úpravu predchádzajúceho dielu pravidlom o znášaní tr
 
 ### § 272
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 272**
 >
 > Súd ustanoví opatrovníka fyzickej osobe, ak tak ustanovuje osobitný predpis.
@@ -22,7 +22,7 @@ Ustanovenie zakotvuje procesný základ konania o ustanovení opatrovníka, pri�
 
 ### § 273 — Miestna príslušnosť súdu
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 273 — Miestna príslušnosť súdu**
 >
 > Na konanie o ustanovení opatrovníka je miestne príslušný súd, v ktorého obvode má fyzická osoba bydlisko; ak takýto súd nie je, súd, v ktorého obvode má fyzická osoba majetok.
@@ -31,7 +31,7 @@ Ustanovenie zakotvuje dvojstupňové kritérium miestnej príslušnosti — prim
 
 ### § 274
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 274**
 >
 > (1) Súd rozhoduje uznesením.
@@ -42,7 +42,7 @@ Odsek 1 určuje procesnú formu rozhodnutia — uznesenie, čo je štandardné p
 
 ### § 275
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 275**
 >
 > Súdom ustanovený opatrovník vykonáva svoje práva a povinnosti riadne a dbá na pokyny súdu.
@@ -51,7 +51,7 @@ Ustanovenie zakotvuje základnú povinnosť opatrovníka konať s náležitou st
 
 ### § 276
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 276**
 >
 > Súd odvolá opatrovníka z výkonu funkcie na jeho návrh.
@@ -60,7 +60,7 @@ Ustanovenie priznáva samotnému opatrovníkovi právo iniciovať svoje odvolani
 
 ### § 277
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 277**
 >
 > (1) Súd dohliada na spôsob výkonu funkcie opatrovníka.
@@ -75,7 +75,7 @@ PIATA HLAVA — Konania v niektorých veciach právnických osôb
 
 ### § 304
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 304**
 >
 > Konaním v niektorých veciach právnických osôb je konanie o
@@ -106,7 +106,7 @@ Ustanovenie má taxatívny výpočtový (katalogizačný) charakter — vymedzuj
 
 ### § 305
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 305**
 >
 > (1) Na konanie v niektorých veciach právnických osôb je kauzálne príslušný registrový súd podľa osobitného predpisu.
@@ -121,7 +121,7 @@ Odsek 3 upravuje osobitné pravidlo pre konanie o potvrdení spoločného audít
 
 ### § 306
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 306**
 >
 > Konanie podľa § 304 písm. c) až k) sa začína len na návrh.
@@ -130,7 +130,7 @@ Ustanovenie vymedzuje dispozičný princíp pre väčšinu konaní upravených v
 
 ### § 307
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 307**
 >
 > (1) Súd nariadi pojednávanie, ak sú skutkové tvrdenia medzi účastníkmi sporné.
@@ -141,7 +141,7 @@ Ustanovenie upravuje predpoklady nariadenia pojednávania — obligatórne v pr�
 
 ### § 308
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 308**
 >
 > Súd rozhoduje uznesením.
@@ -150,7 +150,7 @@ Ustanovenie určuje procesnú formu rozhodnutia vo veciach podľa tejto hlavy �
 
 ### § 308a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 308a**
 >
 > V likvidácii alebo dodatočnej likvidácii obchodnej spoločnosti alebo družstva, v ktorej ustanovil likvidátora súd, sa súdne rozhodnutia a iné písomnosti likvidátora doručujú ich zverejnením v registri predinsolvenčných, likvidačných a insolvenčných konaní vrátane rozhodnutia o ustanovení likvidátora, rozhodnutia o jeho odvolaní a nahradení inou osobou, ako aj rozhodnutia o odmene likvidátora. Ustanovenia všeobecného predpisu o konkurznom konaní o doručovaní a zverejňovaní súdnych rozhodnutí a iných písomností sa použijú primerane.
@@ -161,7 +161,7 @@ Konanie o zrušení právnickej osoby
 
 ### § 309 — Konanie o zrušení obchodnej spoločnosti na návrh
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 309 — Konanie o zrušení obchodnej spoločnosti na návrh**
 >
 > Na konanie o zrušení obchodnej spoločnosti, ktoré možno začať len na návrh, sa použijú ustanovenia Civilného sporového poriadku. Účastníkmi konania sú žalobca a obchodná spoločnosť, ktorá má byť zrušená. Ak je na súd podaných viac návrhov, súd ich spojí na spoločné konanie.
@@ -174,7 +174,7 @@ Konanie o zrušení obchodnej spoločnosti alebo družstva
 
 ### § 309a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 309a**
 >
 > V konaniach o zrušení obchodnej spoločnosti alebo družstva (ďalej len „spoločnosť"), ktoré možno začať aj bez návrhu, je účastníkom konania iba spoločnosť.
@@ -185,7 +185,7 @@ Kľúčovým pravidlom je vymedzenie okruhu účastníkov výlučne na samotnú 
 
 ### § 309b — Oznámenie o začatí konania o zrušení spoločnosti
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 309b — Oznámenie o začatí konania o zrušení spoločnosti**
 >
 > (1) Ak je dôvod na zrušenie spoločnosti podľa osobitného predpisu, súd spoločnosti doručí oznámenie o začatí konania o zrušení spoločnosti, ktoré obsahuje označenie registrového súdu, ktorý vydal oznámenie o začatí konania o zrušení spoločnosti, a označenie dôvodu pre začatie konania o zrušení spoločnosti.
@@ -206,7 +206,7 @@ Odsek 4 reflektuje moderné trendy digitalizácie registrového konania, umožň
 
 ### § 309c — Osvedčenie odstránenia dôvodu na zrušenie spoločnosti
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 309c — Osvedčenie odstránenia dôvodu na zrušenie spoločnosti**
 >
 > Ak spoločnosť osvedčí odstránenie dôvodu, pre ktorý sa začalo konanie o zrušení spoločnosti, alebo ak súd zistí, že tu dôvod na zrušenie spoločnosti nie je, upovedomí spoločnosť o ukončení konania o zrušení spoločnosti. Súd upovedomí spoločnosť o ukončení konania aj v prípade, že spoločnosť vstúpila do likvidácie pred rozhodnutím súdu o zrušení spoločnosti.
@@ -215,7 +215,7 @@ Ustanovenie upravuje spôsob skončenia konania v prípade, že dôvod na zruše
 
 ### § 309d — Rozhodnutie o zrušení spoločnosti
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 309d — Rozhodnutie o zrušení spoločnosti**
 >
 > (1) Ak spoločnosť neosvedčí odstránenie dôvodu, pre ktorý sa začalo konanie o zrušení spoločnosti, súd po márnom uplynutí lehoty na odstránenie dôvodu pre zrušenie spoločnosti rozhodne o zrušení spoločnosti a rozhodnutie doručí spoločnosti.
@@ -230,7 +230,7 @@ Odsek 2 priznáva spoločnosti právo podať odvolanie, pričom zákon obmedzuje
 
 ### § 309e — Oznámenie o zrušení spoločnosti
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 309e — Oznámenie o zrušení spoločnosti**
 >
 > Ak rozhodnutie súdu o zrušení spoločnosti nadobudlo právoplatnosť, súd zverejní oznámenie o zrušení spoločnosti v Obchodnom vestníku.
@@ -239,7 +239,7 @@ Ustanovenie zakotvuje publikačnú povinnosť súdu po nadobudnutí právoplatno
 
 ### § 309f — Predpoklad úpadku spoločnosti
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 309f — Predpoklad úpadku spoločnosti**
 >
 > Ak spoločnosť do 90 dní od zverejnenia oznámenia o zrušení spoločnosti v Obchodnom vestníku nevstúpi do likvidácie, predpokladá sa, že je v úpadku.
@@ -248,7 +248,7 @@ Ustanovenie zavádza vyvrátiteľnú domnienku úpadku (platobnej neschopnosti a
 
 ### § 309g — Oznámenie o predpoklade úpadku spoločnosti
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 309g — Oznámenie o predpoklade úpadku spoločnosti**
 >
 > Ak sa predpokladá úpadok spoločnosti, súd bezodkladne zverejní v Obchodnom vestníku oznámenie o predpoklade úpadku spoločnosti. V oznámení poučí veriteľov spoločnosti, osoby, ktoré majú právo na likvidačný zostatok, a iné orgány a osoby dotknuté zrušením spoločnosti, že ak do šiestich mesiacov od zverejnenia tohto oznámenia v Obchodnom vestníku nebude podaný návrh na ustanovenie likvidátora spolu s osvedčením o zložení preddavku na jeho odmenu a náhradu výdavkov alebo nebude podaný návrh na vyhlásenie konkurzu na majetok spoločnosti, spoločnosť bude vymazaná z obchodného registra.
@@ -257,7 +257,7 @@ Ustanovenie nadväzuje na domnienku úpadku podľa § 309f ukladajúc súdu povi
 
 ### § 309h — Rozhodnutie o výmaze spoločnosti
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 309h — Rozhodnutie o výmaze spoločnosti**
 >
 > (1) Ak odseky 2 a 3 neustanovujú inak, súd po uplynutí šiestich mesiacov od zverejnenia oznámenia o predpoklade úpadku spoločnosti v Obchodnom vestníku rozhodne o výmaze spoločnosti z obchodného registra bez likvidácie.
@@ -278,7 +278,7 @@ Odsek 4 umožňuje predĺženie lehoty na žiadosť daňových a colných orgán
 
 ### § 309i
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 309i**
 >
 > Ak súd zistí, že k zrušeniu spoločnosti došlo inak ako rozhodnutím súdu, táto okolnosť vyplýva z verejnej listiny a spoločnosť nevstúpila do likvidácie v lehote ustanovenej osobitným predpisom, predpokladá sa, že je v úpadku. Ustanovenia § 309g a § 309h platia rovnako.
@@ -289,7 +289,7 @@ Konanie o nariadení dodatočnej likvidácie majetku spoločnosti
 
 ### § 309j
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 309j**
 >
 > Ak osoba, na návrh ktorej súd má nariadiť dodatočnú likvidáciu súčasne s podaním návrhu na nariadenie dodatočnej likvidácie a ustanovenie likvidátora, najneskôr však na výzvu súdu v stanovenej primeranej lehote súdu neosvedčí zloženie preddavku na likvidáciu podľa osobitného zákona, súd konanie zastaví. Proti rozhodnutiu o zastavení konania nie je prípustné odvolanie.
@@ -300,7 +300,7 @@ Konanie o potvrdení audítora na preskúmanie návrhu projektu premeny, cezhran
 
 ### § 309k
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 309k**
 >
 > O návrhu rozhoduje registrový súd bez nariadenia pojednávania v lehote 15 dní od jeho doručenia. Odmietnutie potvrdenia audítora preskúma súd len z hľadiska splnenia podmienok podľa osobitného predpisu o premenách obchodných spoločností a družstiev.
@@ -313,7 +313,7 @@ Druhá veta obmedzuje rozsah súdneho preskúmania v prípade, že audítor potv
 
 ### § 310 — Podmienky umorenia listiny
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 310 — Podmienky umorenia listiny**
 >
 > (1) Umoriť možno stratenú alebo zničenú listinu, ktorú treba predložiť na uplatnenie práva.
@@ -328,7 +328,7 @@ Odsek 2 vylučuje súdne umorenie tam, kde zákon zveruje právomoc umoriť list
 
 ### § 311 — Miestna príslušnosť súdu
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 311 — Miestna príslušnosť súdu**
 >
 > (1) Na konanie o umorenie cenného papiera vystaveného bankou alebo pobočkou zahraničnej banky je miestne príslušný súd, v ktorého obvode má banka alebo pobočka zahraničnej banky adresu sídla.
@@ -341,7 +341,7 @@ Niektoré ustanovenia o úkonoch súdu prvej inštancie
 
 ### § 312
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 312**
 >
 > (1) V konaní o umorenie listiny poverí súd notára, aby vo veci konal a rozhodoval.
@@ -358,7 +358,7 @@ Odsek 2 vymedzuje výnimky, ktoré si aj napriek poverenie notára ponecháva v�
 
 ### § 313
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 313**
 >
 > (1) Súd poverí notára so sídlom vo svojom obvode, ktorého v návrhu na umorenie listiny označil navrhovateľ.
@@ -369,7 +369,7 @@ Ustanovenie upravuje spôsob výberu notára, ktorý bude vo veci poverený kona
 
 ### § 314
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 314**
 >
 > Pojednávanie sa nariadi, ak treba vykonať dokazovanie. Inak možno rozhodnúť bez pojednávania.
@@ -378,7 +378,7 @@ Ustanovenie viaže nariadenie pojednávania na potrebu vykonať dokazovanie — 
 
 ### § 315
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 315**
 >
 > Súd rozhoduje uznesením.
@@ -387,7 +387,7 @@ Ustanovenie potvrdzuje štandardnú procesnú formu rozhodovania v mimosporovom 
 
 ### § 316
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 316**
 >
 > (1) V uznesení vydanom notárom sa okrem všeobecných náležitostí uvedie označenie súdu, ktorý notára poveril, a označenie notára, ktorý uznesenie vydal.
@@ -398,7 +398,7 @@ Ustanovenie upravuje osobitné formálne náležitosti uznesenia vydaného pover
 
 ### § 317 — Účastníci
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 317 — Účastníci**
 >
 > (1) Do vydania uznesenia o upovedomení o začatí konania o umorenie listiny podľa § 331 je účastníkom navrhovateľ.
@@ -411,7 +411,7 @@ Začatie konania o umorenie listiny
 
 ### § 318
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 318**
 >
 > (1) Konanie o umorenie listiny možno začať iba na návrh.
@@ -422,7 +422,7 @@ Odsek 1 zakotvuje výlučne návrhový charakter konania — súd nemôže konan
 
 ### § 319
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 319**
 >
 > (1) V návrhu na umorenie listiny treba uviesť skutočnosti, z ktorých vyplýva, že z listiny alebo na jej základe možno uplatniť nejaké právo. K návrhu treba predložiť odpis listiny alebo označiť listinu, jej vystaviteľa alebo aj iné osoby podľa listiny zaviazané, ako aj také údaje, ktoré listinu odlišujú od iných listín toho istého druhu.
@@ -433,7 +433,7 @@ Ustanovenie stanovuje osobitné (kvalifikované) náležitosti návrhu na umoren
 
 ### § 320
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 320**
 >
 > Súd uznesením odmietne návrh, ak zo skutkových tvrdení navrhovateľa vyplýva, že listina, ktorej umorenie sa navrhuje, nebola vystavená, nie je stratená ani zničená, alebo že navrhovateľ nemá na umorení listiny právny záujem.
@@ -444,7 +444,7 @@ Upovedomenie o začatí konania o umorenie listiny
 
 ### § 321
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 321**
 >
 > (1) Ak sa návrh neodmietol, súd uznesením upovedomí o začatí konania o umorenie listiny.
@@ -455,7 +455,7 @@ Ustanovenie zakotvuje kľúčový procesný úkon konania — upovedomenie o za�
 
 ### § 322
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 322**
 >
 > (1) Upovedomenie obsahuje výzvu, aby sa ten, kto má listinu, prihlásil do jedného roka od vydania upovedomenia prípadne predložil listinu alebo aby podal proti návrhu námietky.
@@ -466,7 +466,7 @@ Ustanovenie upravuje obsah výzvy adresovanej neurčitému okruhu osôb, ktoré 
 
 ### § 323
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 323**
 >
 > (1) Ak sa umoruje zmenka alebo šek, súd v upovedomení určí lehotu dvoch mesiacov a súčasne zakáže, aby sa podľa umorovanej listiny platilo.
@@ -477,7 +477,7 @@ Ustanovenie upravuje osobitný, podstatne skrátený procesný režim pre umoren
 
 ### § 324
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 324**
 >
 > (1) Upovedomenie obsahuje poučenie, že každý, kto má na veci právny záujem, môže podať námietky proti návrhu na umorenie listiny v lehote podľa § 322 a 323.
@@ -488,7 +488,7 @@ Odsek 1 dopĺňa obsahové náležitosti upovedomenia o poučenie týkajúce sa 
 
 ### § 325
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 325**
 >
 > Upovedomenie sa doručuje navrhovateľovi a tým, ktorí sú alebo ktorí by mohli byť podľa listiny povinní plniť.
@@ -497,7 +497,7 @@ Ustanovenie upravuje individuálne doručovanie upovedomenia — vedľa navrhova
 
 ### § 326
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 326**
 >
 > (1) Upovedomenie sa zverejní v deň jeho vydania na úradnej tabuli notára, ktorý ho vydal, a na webovom sídle Notárskej komory Slovenskej republiky.
@@ -510,7 +510,7 @@ Právne účinky začatia konania o umorenie listiny
 
 ### § 327
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 327**
 >
 > Od začatia konania o umorenie listiny až do jeho právoplatného skončenia neplynie proti navrhovateľovi premlčacia lehota, lehota pre zánik práva ani lehota určená na výplatu peňažnej sumy podľa umorovanej listiny. To neplatí, ak bol návrh na umorenie listiny odmietnutý.
@@ -519,7 +519,7 @@ Ustanovenie chráni navrhovateľa pred nepriaznivými dôsledkami plynutia času
 
 ### § 328
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 328**
 >
 > Ten, komu bolo upovedomenie o začatí konania o umorenie listiny doručené alebo kto sa o ňom mohol pri náležitej starostlivosti dozvedieť, nesmie nakladať s právami z umorovanej listiny, robiť výplaty alebo iné plnenia podľa nej, previesť ju alebo vykonať na nej zmeny. Ten, kto je podľa listiny zaviazaný, je povinný zadržať predloženú listinu a oznámiť súdu, kto ju predložil.
@@ -530,7 +530,7 @@ Druhá veta ukladá zaviazanej osobe (dlžníkovi z listiny) osobitnú povinnos�
 
 ### § 329
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 329**
 >
 > Ak sa začalo konanie o umorenie zmenky alebo šeku, je navrhovateľ, ktorý sa preukáže upovedomením o začatí konania o umorenie listiny, oprávnený žiadať zaplatenie zmenky alebo šeku, ak zloží primeranú zábezpeku, dokiaľ zmenka alebo šek nie sú vyhlásené za umorené. Ak túto zábezpeku nezloží, môže žalobou požadovať, aby dlžná suma bola zložená do notárskej úschovy na účely splnenia záväzku.
@@ -541,7 +541,7 @@ Rozhodnutie o návrhu na umorenie listiny
 
 ### § 330
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 330**
 >
 > Súd preskúma prihlášku toho, kto má listinu, a námietky proti návrhu na umorenie listiny.
@@ -550,7 +550,7 @@ Ustanovenie ukladá súdu (respektíve povinnosť sa vzťahuje aj na povereného
 
 ### § 331
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 331**
 >
 > (1) Súd návrh na umorenie listiny uznesením zamietne, ak zistí, že listina nebola vystavená, že nie je stratená alebo zničená alebo že navrhovateľ nemá na umorení listiny právny záujem.
@@ -563,7 +563,7 @@ Odsek 2 rieši procesnú otázku časovej súslednosti — zamietnutie návrhu m
 
 ### § 332
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 332**
 >
 > (1) Ak uplynula lehota na podanie námietok proti návrhu na umorenie listiny a ak nie sú dôvody na zamietnutie návrhu, súd vyhlási listinu za umorenú.
@@ -578,7 +578,7 @@ SIEDMA HLAVA — Konania vo veciach notárskych úschov
 
 ### § 333
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 333**
 >
 > Konaniami vo veciach notárskych úschov sú
@@ -593,7 +593,7 @@ Ustanovenie má úvodnú, systematizačnú funkciu — vymedzuje tri typy konan�
 
 ### § 334 — Miestna príslušnosť súdu
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 334 — Miestna príslušnosť súdu**
 >
 > Na konanie vo veciach notárskych úschov je miestne príslušný súd, v ktorého obvode má sídlo notár, ktorý má peniaze, veci alebo cenné papiere v úschove.
@@ -604,7 +604,7 @@ Konanie o námietkach proti vydaniu predmetu notárskej úschovy zloženej na ú
 
 ### § 335
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 335**
 >
 > Proti vydaniu predmetu úschovy, ktorý bol zložený do notárskej úschovy na účely splnenia záväzku, možno podať námietky, ak
@@ -619,7 +619,7 @@ Ustanovenie taxatívne vymedzuje tri situácie, v ktorých je namieste podanie n
 
 ### § 336
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 336**
 >
 > (1) Účastníkom konania o námietkach proti vydaniu predmetu notárskej úschovy zloženej na účely splnenia záväzku je zložiteľ, príjemca, ten, komu má byť predmet úschovy vydaný, a ten, koho súhlas je s vydaním predmetu úschovy potrebný.
@@ -630,7 +630,7 @@ Ustanovenie vymedzuje okruh účastníkov tohto typu konania primerane široko t
 
 ### § 337
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 337**
 >
 > (1) Zložiteľom je ten, kto predmet úschovy u notára zložil na účely splnenia záväzku a vyhlásil, že záväzok, ktorého predmetom sú hodnoty skladané do úschovy, nemožno splniť, pretože veriteľ je neprítomný alebo je v omeškaní, alebo že zložiteľ má odôvodnené pochybnosti, kto je veriteľom, alebo že zložiteľ veriteľa nepozná.
@@ -641,7 +641,7 @@ Ustanovenie definuje kľúčové pojmy zložiteľa a príjemcu pre účely tohto
 
 ### § 338
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 338**
 >
 > Súhlas zložiteľa s vydaním predmetu úschovy príjemcovi je potrebný len vtedy ak bolo plnenie zložené pre neznámeho veriteľa.
@@ -650,7 +650,7 @@ Ustanovenie upravuje osobitný prípad, keď je na vydanie predmetu úschovy pr�
 
 ### § 339
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 339**
 >
 > Súhlas príjemcu s vydaním predmetu úschovy zložiteľovi alebo inej osobe je potrebný, ibaže bolo plnenie zložené pre neznámeho veriteľa.
@@ -659,7 +659,7 @@ Ustanovenie upravuje zrkadlovú situáciu k § 338 — ak zložiteľ žiada o vr
 
 ### § 340
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 340**
 >
 > (1) Ak nejde o prípad podľa § 335 písm. a) alebo písm. b), notár vydá bezodkladne predmet úschovy príjemcovi na jeho žiadosť.
@@ -674,7 +674,7 @@ Odsek 3 upravuje fikciu súhlasu — ak v stanovenej lehote nikto nenamieta, pre
 
 ### § 341
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 341**
 >
 > Námietky podané v lehote podľa § 340 ods. 2 predloží notár na rozhodnutie súdu.
@@ -683,7 +683,7 @@ Ustanovenie zakotvuje procesný prechod veci z notárskej agendy do súdneho kon
 
 ### § 342
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 342**
 >
 > Súd doručí námietky ostatným účastníkom a vyzve ich, aby sa k námietkam vyjadrili.
@@ -692,7 +692,7 @@ Ustanovenie zakotvuje základnú kontradiktórnu zásadu súdneho konania o nám
 
 ### § 343
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 343**
 >
 > (1) Súd nariadi pojednávanie, ak sú skutkové tvrdenia medzi účastníkmi sporné.
@@ -703,7 +703,7 @@ Ustanovenie kopíruje konštrukciu už použitú v § 307 — obligatórne pojed
 
 ### § 344
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 344**
 >
 > (1) Súd námietky uznesením zamietne, ak ten, kto podal námietky, odopiera súhlas s vydaním predmetu úschovy nedôvodne alebo ak uplatňuje právo na vydanie predmetu úschovy nedôvodne. Inak námietkam uznesením vyhovie.
@@ -722,7 +722,7 @@ Konanie o námietkach proti vydaniu výťažku z predaja zálohu zloženého do 
 
 ### § 345
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 345**
 >
 > (1) Ak bol do notárskej úschovy zložený výťažok z predaja zálohu podľa osobitného predpisu, notár pred vydaním výťažku z predaja zálohu upovedomí záložných veriteľov, ktorých záložné právo predajom zálohu zaniklo, a záložcu o tom, komu a z akých právnych dôvodov bude výťažok z predaja zálohu vydaný. V upovedomení ich poučí, že v lehote 15 dní od doručenia upovedomenia môžu podať proti vydaniu výťažku z predaja zálohu námietky.
@@ -733,7 +733,7 @@ Ustanovenie upravuje druhý typ konania vo veciach notárskych úschov — týka
 
 ### § 346
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 346**
 >
 > Námietky podané v lehote predloží notár na rozhodnutie súdu.
@@ -742,7 +742,7 @@ Ustanovenie preberá rovnakú logiku ako § 341 — podané námietky vylučujú
 
 ### § 347
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 347**
 >
 > Účastníkmi konania o námietkach proti vydaniu výťažku z predaja zálohu zloženého do notárskej úschovy sú záložca a záložní veritelia, ktorých záložné právo predajom zálohu zaniklo.
@@ -751,7 +751,7 @@ Ustanovenie vymedzuje okruh účastníkov tohto konania na záložcu (vlastníka
 
 ### § 348
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 348**
 >
 > Súd doručí námietky ostatným účastníkom a vyzve ich, aby sa k námietkam vyjadrili.
@@ -760,7 +760,7 @@ Ustanovenie opakuje kontradiktórnu zásadu obdobne ako § 342, zabezpečujúc �
 
 ### § 349
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 349**
 >
 > (1) Súd nariadi pojednávanie, ak sú skutkové tvrdenia medzi účastníkmi sporné.
@@ -771,7 +771,7 @@ Ustanovenie opäť preberá štandardnú konštrukciu pojednávania podľa skutk
 
 ### § 350
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 350**
 >
 > (1) Ak je obsahom námietok zapretie pravosti, výšky, poradia, splatnosti alebo zabezpečenia pohľadávky záložného veriteľa a ak posúdenie dôvodnosti zapretia závisí od zistenia sporných skutočností, odkáže súd uznesením toho účastníka, ktorého skutkové tvrdenia sa javia ako menej pravdepodobné, aby svoje právo uplatnil na súde žalobou, a konanie o námietkach preruší.
@@ -788,7 +788,7 @@ Odsek 2 vyžaduje, aby súd vo výroku presne identifikoval účastníkov budúc
 
 ### § 351
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 351**
 >
 > (1) Súd rozhoduje o námietkach uznesením, proti ktorému je odvolanie prípustné.
@@ -805,7 +805,7 @@ Konanie o prepadnutí predmetu notárskej úschovy štátu
 
 ### § 352
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 352**
 >
 > (1) Ak sa notárovi nepodarí naložiť s predmetom notárskej úschovy do desiatich rokov od zloženia, podá súdu podnet na začatie konania o prepadnutí predmetu notárskej úschovy štátu. To neplatí, ak prebieha iné súdne konanie týkajúce sa predmetu notárskej úschovy alebo ak sa o vydanie predmetu notárskej úschovy dôvodne hlási určitá osoba.
@@ -818,7 +818,7 @@ Zákon výslovne vylučuje uplatnenie tohto mechanizmu, ak prebieha iné súdne 
 
 ### § 353
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 353**
 >
 > Účastníkmi konania o prepadnutí predmetu notárskej úschovy štátu sú zložiteľ, tí, o ktorých sa možno domnievať, že majú na vydanie predmetu notárskej úschovy právo, a tí, ktorí v lehote podali žiadosť podľa § 354 o vydanie predmetu notárskej úschovy.
@@ -827,7 +827,7 @@ Ustanovenie vymedzuje okruh účastníkov širšie, než je typické pri iných 
 
 ### § 354
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 354**
 >
 > (1) V uznesení o začatí konania súd vyzve tých, ktorí majú na vydanie predmetu notárskej úschovy právo, aby na súde podali žiadosť o vydanie predmetu notárskej úschovy s poučením, že ak sa nik neprihlási v lehote troch rokov od vydania uznesenia, rozhodne o prepadnutí predmetu notárskej úschovy štátu.
@@ -840,7 +840,7 @@ Odsek 2 zabezpečuje kombináciu individuálneho doručenia (účastníkom, ktor
 
 ### § 355
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 355**
 >
 > (1) Ak je v lehote podaná žiadosť o vydanie predmetu notárskej úschovy a ide o prípad uvedený v § 335 alebo ak je predmetom notárskej úschovy výťažok z predaja zálohu, postupuje sa primerane podľa § 335 až 351.
@@ -855,7 +855,7 @@ Odsek 2 upravuje samostatný postup pre ostatné prípady, ktoré nezodpovedajú
 
 ### § 356
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 356**
 >
 > Ak došlo k vydaniu predmetu notárskej úschovy, súd konanie o prepadnutí predmetu notárskej úschovy štátu zastaví.
@@ -864,7 +864,7 @@ Ustanovenie logicky uzatvára postup podľa § 355 — ak sa predmet úschovy vy
 
 ### § 357
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 357**
 >
 > Po uplynutí troch rokov od vydania uznesenia o začatí konania súd rozhodne, že predmet notárskej úschovy prepadá štátu, ak
@@ -877,7 +877,7 @@ Ustanovenie upravuje konečné, meritórne rozhodnutie o prepadnutí predmetu ú
 
 ### § 358
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 358**
 >
 > Ak predmet notárskej úschovy prepadne štátu, zanikajú práva účastníkov a iných osôb k predmetu notárskej úschovy.
@@ -886,7 +886,7 @@ Ustanovenie upravuje hmotnoprávny účinok rozhodnutia o prepadnutí — zánik
 
 ### § 359 — Iné úschovy
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 359 — Iné úschovy**
 >
 > Ak súd prijíma do úschovy veci v prípadoch ustanovených osobitným predpisom, postupuje sa podľa ustanovení osobitného predpisu, a ak ho niet, postupuje sa podľa ustanovení tejto hlavy, a to primerane podľa povahy úschovy a jej účelu.
@@ -897,7 +897,7 @@ Ustanovenie upravuje subsidiárne (podporné) použitie tejto hlavy aj na iné, 
 
 ### § 359a — Predmet konania
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 359a — Predmet konania**
 >
 > Konaním o potvrdení vydržania je konanie o potvrdení vydržania vlastníckeho práva k nehnuteľnosti alebo konanie o vydržaní práva zodpovedajúceho vecnému bremenu.
@@ -906,7 +906,7 @@ Ustanovenie vymedzuje vecný predmet novej hlavy — mimosúdny (respektíve v t
 
 ### § 359b — Miestna príslušnosť súdu
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 359b — Miestna príslušnosť súdu**
 >
 > Na konanie o potvrdení vydržania je miestne príslušný súd, v ktorého obvode je nehnuteľnosť.
@@ -915,7 +915,7 @@ Ustanovenie zakotvuje príslušnosť podľa polohy nehnuteľnosti (forum rei sit
 
 ### § 359c — Účastníci konania
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 359c — Účastníci konania**
 >
 > (1) Návrh na začatie konania o potvrdení vydržania je oprávnený podať ten, kto o sebe tvrdí, že vydržaním nadobudol vlastnícke právo k nehnuteľnosti alebo právo zodpovedajúce vecnému bremenu.
@@ -938,7 +938,7 @@ Odsek 3 dopĺňa okruh účastníkov ex post o osoby, ktoré po zverejnení vyz�
 
 ### § 359d — Návrh na začatie konania
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 359d — Návrh na začatie konania**
 >
 > (1) Konanie o potvrdení vydržania sa začína len na návrh.
@@ -953,7 +953,7 @@ Odsek 3 upravuje osobitný spôsob doručovania návrhu — nie samostatne, ale 
 
 ### § 359e — Rozhodnutie o návrhu na začatie konania
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 359e — Rozhodnutie o návrhu na začatie konania**
 >
 > (1) Ak sa návrh na začatie konania o potvrdení vydržania neodmietne podľa § 8 ods. 1, súd preskúma, či navrhovateľ osvedčil, že nadobudol vlastnícke právo k nehnuteľnosti alebo právo zodpovedajúce vecnému bremenu vydržaním. Súd môže sám vykonať potrebné šetrenia na overenie správnosti tvrdení navrhovateľa alebo môže vyzvať navrhovateľa, aby označil ďalšie dôkazy na preukázanie skutočností, z ktorých vyplýva, že splnil predpoklady pre nadobudnutie vlastníckeho práva k nehnuteľnosti alebo práva zodpovedajúceho vecnému bremenu vydržaním.
@@ -968,7 +968,7 @@ Odsek 2 upravuje zamietnutie návrhu v prípade, že napriek predbežnému presk
 
 ### § 359f — Vyzývacie uznesenie
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 359f — Vyzývacie uznesenie**
 >
 > (1) Ak navrhovateľ osvedčil, že splnil predpoklady pre nadobudnutie vlastníckeho práva k nehnuteľnosti alebo práva zodpovedajúceho vecnému bremenu vydržaním, súd vydá vyzývacie uznesenie.
@@ -985,7 +985,7 @@ Odsek 4 stanovuje obsahové náležitosti vyzývacieho uznesenia nad rámec samo
 
 ### § 359g — Doručenie a zverejnenie vyzývacieho uznesenia
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 359g — Doručenie a zverejnenie vyzývacieho uznesenia**
 >
 > (1) Vyzývacie uznesenie sa bezodkladne doručí
@@ -1014,7 +1014,7 @@ Odsek 2 upravuje verejné zverejnenie prostredníctvom dvoch kanálov — celoš
 
 ### § 359h — Námietky
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 359h — Námietky**
 >
 > (1) Námietky môže podať
@@ -1049,7 +1049,7 @@ Odsek 4 upravuje formalizovaný filter — súd bez pojednávania odmietne onesk
 
 ### § 359i — Zamietnutie návrhu na začatie konania
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 359i — Zamietnutie návrhu na začatie konania**
 >
 > (1) Súd uznesením zamietne návrh na začatie konania o potvrdení vydržania, ak sa námietky neodmietli a ak sú dôvodné (§ 359h ods. 3).
@@ -1064,7 +1064,7 @@ Odsek 3 upravuje nadväzujúci administratívny krok voči katastru nehnuteľnos
 
 ### § 359j — Potvrdenie vydržania
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 359j — Potvrdenie vydržania**
 >
 > (1) Ak súd nezamietol návrh na začatie konania o potvrdení vydržania podľa § 359i ods. 1, vydá uznesenie o potvrdení vydržania; to platí aj vtedy, ak márne uplynula lehota na podanie námietok alebo ak boli námietky odmietnuté.
@@ -1083,7 +1083,7 @@ Odsek 2 stanovuje obligatórny obsah uznesenia — presnú identifikáciu účas
 
 ### § 359k — Účinky uznesenia o potvrdení vydržania
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 359k — Účinky uznesenia o potvrdení vydržania**
 >
 > (1) Právoplatné uznesenie o potvrdení vydržania je záväzné pre každého.
@@ -1102,7 +1102,7 @@ TRETIA ČASŤ — Niektoré ustanovenia o neodkladných a iných opatreniach sú
 
 ### § 360
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 360**
 >
 > (1) Neodkladné opatrenie možno nariadiť aj bez návrhu v konaniach, ktoré možno začať aj bez návrhu.
@@ -1115,7 +1115,7 @@ Odsek 2 rieši nadväzujúci procesný krok po nariadení neodkladného opatreni
 
 ### § 361
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 361**
 >
 > Súd nariadi neodkladné opatrenie aj vtedy, ak to vyžaduje verejný záujem.
@@ -1124,7 +1124,7 @@ Ustanovenie rozširuje dôvody nariadenia neodkladného opatrenia nad rámec ind
 
 ### § 362
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 362**
 >
 > O návrhu na nariadenie neodkladného opatrenia, ktorý bol podaný v priebehu odvolacieho konania, je príslušný rozhodnúť odvolací súd. Odvolací súd môže neodkladné opatrenie nariadiť aj bez návrhu v konaniach, ktoré možno začať aj bez návrhu.
@@ -1133,7 +1133,7 @@ Ustanovenie rieši otázku funkčnej príslušnosti na rozhodovanie o neodkladno
 
 ### § 363
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 363**
 >
 > Súd môže aj bez návrhu zrušiť nariadené neodkladné opatrenie, ak sa zmenia pomery alebo ak odpadli dôvody, pre ktoré bolo nariadené.
@@ -1142,7 +1142,7 @@ Ustanovenie zakotvuje princíp zmeny pomerov (rebus sic stantibus) uplatňovaný
 
 ### § 364
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 364**
 >
 > Ak bolo nariadené neodkladné opatrenie podľa tohto zákona, ustanovenia Civilného sporového poriadku o zodpovednosti za škodu spôsobenú neodkladným opatrením sa nepoužijú; všeobecné ustanovenia o zodpovednosti za škodu tým nie sú dotknuté.
@@ -1151,7 +1151,7 @@ Ustanovenie vylučuje aplikáciu osobitného (spravidla objektívneho, bez ohľa
 
 ### § 365 — Neodkladné opatrenie vo veciach ochrany maloletého
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 365 — Neodkladné opatrenie vo veciach ochrany maloletého**
 >
 > (1) Ak sa ocitne maloletý bez akejkoľvek starostlivosti alebo ak je jeho život, zdravie a priaznivý vývoj vážne ohrozený alebo narušený, súd neodkladným opatrením nariadi, aby bol maloletý dočasne, najdlhšie na šesť mesiacov, zverený do starostlivosti fyzickej osoby alebo právnickej osoby, ktorú v uznesení určí. Obmedzenie času trvania neodkladného opatrenia neplatí, ak do šiestich mesiacov od nariadenia neodkladného opatrenia je začaté konanie vo veci samej, ak bolo do starostlivosti fyzickej osoby alebo právnickej osoby zverené maloleté dieťa bez sprievodu alebo ak nebolo možné v lehote šiestich mesiacov zlúčiť maloletého cudzinca s jeho rodinou.
@@ -1178,7 +1178,7 @@ Odsek 5 upravuje osobitný, oneskorený spôsob doručovania uznesenia účastn�
 
 ### § 366 — Neodkladné opatrenie vo veciach výživného
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 366 — Neodkladné opatrenie vo veciach výživného**
 >
 > Neodkladným opatrením môže súd nariadiť platiť výživné v nevyhnutnej miere.
@@ -1187,7 +1187,7 @@ Ustanovenie umožňuje súdu rýchlo, ešte pred meritórnym rozhodnutím o vý�
 
 ### § 367 — Neodkladné opatrenie vo veciach osobnej starostlivosti o maloletého
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 367 — Neodkladné opatrenie vo veciach osobnej starostlivosti o maloletého**
 >
 > (1) Neodkladným opatrením môže súd nariadiť, aby ten, kto má maloletého dočasne pri sebe, maloletého dočasne odovzdal do starostlivosti toho, koho označí súd, alebo do striedavej osobnej starostlivosti.
@@ -1212,7 +1212,7 @@ Odsek 3 stanovuje sedemdňovú lehotu na rozhodnutie — dlhšiu než 24-hodinov
 
 ### § 368 — Neodkladné opatrenie o povolení súdu na výkon oprávnenia vo veci starostlivosti o maloletých
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 368 — Neodkladné opatrenie o povolení súdu na výkon oprávnenia vo veci starostlivosti o maloletých**
 >
 > (1) V odôvodnených prípadoch môže súd na návrh orgánu sociálnoprávnej ochrany detí a sociálnej kurately neodkladným opatrením povoliť vstup do obydlia, v ktorom sa nachádza maloletý na účely výkonu právomocí orgánu sociálnoprávnej ochrany detí a sociálnej kurately.
@@ -1227,7 +1227,7 @@ Odsek 2 obmedzuje okruh účastníkov výlučne na navrhujúci orgán, čo zodpo
 
 ### § 369 — Opatrenie na zabezpečenie dôkazu
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 369 — Opatrenie na zabezpečenie dôkazu**
 >
 > Zabezpečiť dôkaz podľa tohto zákona možno aj bez návrhu v konaniach, ktoré možno začať aj bez návrhu.
@@ -1238,7 +1238,7 @@ Ustanovenie rozširuje možnosť súdu zabezpečiť dôkaz (teda vykonať ho vop
 
 ### § 370 — Exekučný titul
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 370 — Exekučný titul**
 >
 > (1) Podľa tejto časti sa postupuje pri výkone rozhodnutia, ktorým bola upravená starostlivosť o maloletého, styk s maloletým alebo iná ako peňažná povinnosť vo vzťahu k maloletému.
@@ -1253,7 +1253,7 @@ Odsek 2 rozširuje pôsobnosť tejto časti aj na osobitný, medzinárodnoprávn
 
 ### § 371 — Miestna príslušnosť súdu
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 371 — Miestna príslušnosť súdu**
 >
 > (1) Na výkon rozhodnutia vo veciach maloletých je miestne príslušný súd, v ktorého obvode má maloletý bydlisko určené dohodou rodičov alebo iným zákonným spôsobom.
@@ -1272,7 +1272,7 @@ Odsek 3 rieši naliehavé situácie, keď miestne príslušný súd nie je znám
 
 ### § 372
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 372**
 >
 > Účastníkmi konania o výkone rozhodnutia sú maloletý, ten, kto je z exekučného titulu oprávnený a povinný.
@@ -1281,7 +1281,7 @@ Ustanovenie vymedzuje okruh účastníkov konania o výkone rozhodnutia — vžd
 
 ### § 373
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 373**
 >
 > Na konanie o výkone rozhodnutia sa použijú ustanovenia prvej časti a piateho dielu prvej hlavy druhej časti, ak nie je ustanovené inak.
@@ -1290,7 +1290,7 @@ Ustanovenie upravuje subsidiárne použitie všeobecných ustanovení zákona (p
 
 ### § 374
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 374**
 >
 > (1) Súd na prejednanie veci nariadi pojednávanie.
@@ -1311,7 +1311,7 @@ Odsek 2 vymedzuje výnimky z tohto pravidla pre situácie, kde je naliehavosť a
 
 ### § 375
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 375**
 >
 > Súd rozhoduje uznesením.
@@ -1320,7 +1320,7 @@ Ustanovenie potvrdzuje štandardnú procesnú formu rozhodnutia aj vo fáze výk
 
 ### § 376
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 376**
 >
 > (1) Ak povinný dobrovoľne nesplní, čo mu ukladá vykonateľný exekučný titul, môže oprávnený podať návrh na nariadenie výkonu rozhodnutia.
@@ -1333,7 +1333,7 @@ Odsek 1 zakotvuje základné, návrhové začatie konania o výkone rozhodnutia,
 
 ### § 377
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 377**
 >
 > (1) Súd rozhodne o nariadení výkonu rozhodnutia alebo o zamietnutí návrhu na nariadenie výkonu rozhodnutia do šiestich mesiacov od začatia konania.
@@ -1350,7 +1350,7 @@ Odsek 4 zakotvuje zásadu, že odvolanie nemá odkladný účinok na samotný v�
 
 ### § 378 — Postup súdu pred uskutočnením výkonu rozhodnutia
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 378 — Postup súdu pred uskutočnením výkonu rozhodnutia**
 >
 > (1) Po vydaní uznesenia o nariadení výkonu rozhodnutia alebo súčasne s vydaním tohto uznesenia môže súd vykonať úkony a opatrenia smerujúce k tomu, aby došlo k dobrovoľnému splneniu povinnosti.

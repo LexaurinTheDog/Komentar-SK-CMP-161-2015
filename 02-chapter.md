@@ -2,7 +2,7 @@
 
 ### § 133
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 133**
 >
 > (1) Súd rozhoduje uznesením.
@@ -15,7 +15,7 @@ Odsek 2 rieši otázku vykonateľnosti — na rozdiel od všeobecnej úpravy v C
 
 ### § 134
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 134**
 >
 > (1) Ak neexistujú dôvody hodné osobitného zreteľa, vydá súd rozhodnutie spravidla do šiestich týždňov od začatia konania; ak vydá súd rozhodnutie po uplynutí tejto lehoty, uvedie v odôvodnení rozhodnutia skutočnosti, pre ktoré nebolo možné lehotu dodržať.
@@ -30,7 +30,7 @@ Odsek 2 ukladá súdu poučovaciu povinnosť o možnosti výkonu rozhodnutia —
 
 ### § 135
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 135**
 >
 > Konaniami vo veciach osvojenia sú konanie o
@@ -47,7 +47,7 @@ Praktický význam tohto vymedzenia spočíva v tom, že jednotlivé nasledujúc
 
 ### § 136 — Miestna príslušnosť súdu
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 136 — Miestna príslušnosť súdu**
 >
 > Na konanie vo veciach osvojenia je miestne príslušný súd, v ktorého obvode má dieťa v čase začatia konania bydlisko určené dohodou rodičov alebo iným zákonným spôsobom. Ak takého súdu niet, je na konanie príslušný súd, v ktorého obvode sa dieťa zdržuje.
@@ -60,7 +60,7 @@ Subsidiárne kritérium (obvod, kde sa dieťa skutočne zdržuje) sa uplatní vt
 
 ### § 137
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 137**
 >
 > (1) Návrh na začatie konania o osvojiteľnosti môže podať zákonný zástupca dieťaťa, u ktorého sú splnené predpoklady na osvojenie podľa predpisov rodinného práva, orgán sociálnoprávnej ochrany detí a sociálnej kurately alebo zariadenie, v ktorom je dieťa umiestnené.
@@ -73,7 +73,7 @@ Odsek 2 zakotvuje možnosť súdu začať konanie ex offo, ak sám zistí (typic
 
 ### § 138
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 138**
 >
 > (1) Účastníkmi konania o osvojiteľnosti sú navrhovateľ, dieťa a jeho rodičia.
@@ -92,7 +92,7 @@ Odsek 3 vylučuje z okruhu účastníkov rodičov, ktorí boli pozbavení rodič
 
 ### § 139
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 139**
 >
 > Súd v konaní vyslúchne toho, v koho starostlivosti sa dieťa nachádza, alebo štatutárny orgán zariadenia na výkon rozhodnutia súdu, v ktorom je dieťa umiestnené. Súd v konaní o osvojiteľnosti skúma aj okolnosti na strane dieťaťa vylučujúce splnenie účelu osvojenia.
@@ -103,7 +103,7 @@ Druhá veta zakotvuje osobitný vyšetrovací štandard — súd musí aktívne 
 
 ### § 140
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 140**
 >
 > Ak nie sú splnené podmienky osvojiteľnosti, súd konanie zastaví.
@@ -112,7 +112,7 @@ Ide o procesný dôsledok negatívneho zistenia — ak súd po vykonanom dokazov
 
 ### § 141
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 141**
 >
 > O osvojiteľnosti rozhodne súd najneskôr do troch mesiacov odo dňa začatia konania. Túto lehotu možno predĺžiť najviac o tri mesiace, ak rozhodnutiu súdu bránia vážne dôvody a objektívne príčiny.
@@ -121,7 +121,7 @@ Ustanovenie zakotvuje osobitnú (kratšiu) rozhodovaciu lehotu oproti všeobecne
 
 ### § 142
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 142**
 >
 > Súd na návrh rozsudok o osvojiteľnosti zruší, ak dôjde k zmene pomerov. Návrh možno podať len do času, kým nie je dieťa odovzdané na základe rozhodnutia súdu do starostlivosti budúcich osvojiteľov.
@@ -134,7 +134,7 @@ Ustanovenie umožňuje reagovať na zmenu pomerov, ktorá nastane po právoplatn
 
 ### § 143
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 143**
 >
 > Konanie o osvojenie možno začať len na návrh.
@@ -143,7 +143,7 @@ Na rozdiel od konania o osvojiteľnosti, kde zákon pripúšťa aj začatie z ú
 
 ### § 144
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 144**
 >
 > (1) Účastníkmi konania o osvojenie sú osvojované dieťa, jeho rodičia, prípadne poručník, osvojiteľ a jeho manžel.
@@ -160,7 +160,7 @@ Odsek 4 rieši postavenie manžela osvojiteľa — ak sa osvojenie realizuje osv
 
 ### § 145
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 145**
 >
 > O osvojení rozhodne súd bezodkladne, najneskôr do šiestich mesiacov od podania návrhu na osvojenie. Konanie možno predĺžiť, len ak z objektívnych príčin nemožno vykonať dôkazy.
@@ -169,7 +169,7 @@ Zákon stanovuje šesťmesačnú poriadkovú lehotu, výrazne dlhšiu než pri o
 
 ### § 146
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 146**
 >
 > (1) Osvojované dieťa súd vyslúchne, len ak je schopné pochopiť význam osvojenia a výsluch nie je v rozpore s jeho záujmom. Ak sa nemá osvojované dieťa vyslúchnuť, nepredvoláva sa na pojednávanie.
@@ -182,7 +182,7 @@ Odsek 2 naopak stanovuje pre ostatných účastníkov (rodičov, osvojiteľa, je
 
 ### § 147
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 147**
 >
 > (1) Súd zistí, či sa zdravotný stav osvojovaného dieťaťa aj osvojiteľa neprieči účelu osvojenia. S výsledkami vyšetrenia súd oboznámi účastníkov.
@@ -195,7 +195,7 @@ Odsek 2 zakotvuje osobitnú poučovaciu povinnosť presahujúcu bežné procesn�
 
 ### § 148
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 148**
 >
 > V rozsudku, ktorým sa vyslovuje osvojenie, súd uvedie aj priezvisko, ktoré bude osvojenec mať.
@@ -204,7 +204,7 @@ Ustanovenie rieši dôsledok osvojenia na osobný stav dieťaťa vo vzťahu k pr
 
 ### § 149
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 149**
 >
 > Právoplatný rozsudok o osvojení súd zašle orgánu, ktorý vedie matriku.
@@ -213,7 +213,7 @@ Ide o procesnú povinnosť súdu zabezpečiť nadväznosť medzi súdnym rozhodn
 
 ### § 150
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 150**
 >
 > Konanie o zrušenie osvojenia môže súd začať na návrh osvojenca alebo osvojiteľa alebo aj bez návrhu.
@@ -224,7 +224,7 @@ Ustanovenie upravuje procesnú stránku zrušenia osvojenia (ktorého hmotnoprá
 
 ### § 151
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 151**
 >
 > Konanie sa začína len na návrh budúceho osvojiteľa.
@@ -233,7 +233,7 @@ Aktívna legitimácia je tu zúžená výlučne na budúceho osvojiteľa — log
 
 ### § 152
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 152**
 >
 > Účastníkmi konania o zverení maloletého do predosvojiteľskej starostlivosti sú tí, ktorí by nimi boli v konaní o osvojenie.
@@ -242,7 +242,7 @@ Ustanovenie použitím legislatívnej skratky (odkazom na okruh účastníkov po
 
 ### § 153
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 153**
 >
 > (1) O zverení maloletého do predosvojiteľskej starostlivosti súd rozhoduje uznesením.
@@ -255,7 +255,7 @@ Odsek 1 určuje procesnú formu rozhodnutia — uznesenie, čo zodpovedá povahe
 
 ### § 154 — Miestna príslušnosť súdu
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 154 — Miestna príslušnosť súdu**
 >
 > Na konanie vo veciach výživného plnoletých osôb a iných obdobných nárokov je miestne príslušný všeobecný súd osoby oprávnenej na výživné.
@@ -264,7 +264,7 @@ Ustanovenie stanovuje osobitnú miestnu príslušnosť naviazanú na osobu oprá
 
 ### § 155
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 155**
 >
 > Konanie sa začína len na návrh.
@@ -273,7 +273,7 @@ Na rozdiel od konania o výživnom maloletých detí, kde platí zásada oficial
 
 ### § 156
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 156**
 >
 > Účastníkmi konania vo veciach výživného plnoletých osôb sú osoba oprávnená na výživné a osoba, ktorá je podľa návrhu povinná platiť výživné.
@@ -282,7 +282,7 @@ Okruh účastníkov je vymedzený jednoducho a zodpovedá dvojstrannej povahe n�
 
 ### § 157
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 157**
 >
 > Rozsudok vo veciach výživného možno na návrh zmeniť alebo zrušiť, ak sa zmenia pomery.
@@ -295,7 +295,7 @@ Ustanovenie reflektuje skutočnosť, že rozhodnutie o výživnom nemá povahu d
 
 ### § 158
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 158**
 >
 > Na konanie o dedičstve je miestne príslušný súd, v ktorého obvode
@@ -312,7 +312,7 @@ Ak takéto kritérium chýba (napríklad poručiteľ nemal na Slovensku trvalý 
 
 ### § 159
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 159**
 >
 > Na dodatočné konanie o dedičstve je miestne príslušný súd, na ktorom bolo konanie o dedičstve skončené.
@@ -321,7 +321,7 @@ Ustanovenie rieši príslušnosť pre osobitný typ konania — dodatočné prej
 
 ### § 160
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 160**
 >
 > (1) Ak je v súvislosti s konaním o dedičstve potrebné schváliť právny úkon maloletého dediča súdom, je na schválenie právneho úkonu príslušný súd konajúci o dedičstve.
@@ -338,7 +338,7 @@ Odsek 2 umožňuje spojiť dve samostatné schvaľovacie rozhodnutia (schváleni
 
 ### § 161
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 161**
 >
 > (1) V konaní o dedičstve poverí súd notára, aby vo veci konal a rozhodoval.
@@ -359,7 +359,7 @@ Odsek 2 taxatívne vymedzuje výnimky, ktoré si zákon ponecháva výlučne pre
 
 ### § 162
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 162**
 >
 > Súd poveruje notárov so sídlom vo svojom obvode rovnomerne podľa rozvrhu práce, ktorý na návrh Notárskej komory Slovenskej republiky vydá predseda okresného súdu na každý kalendárny rok.
@@ -368,7 +368,7 @@ Ustanovenie zabezpečuje objektívne a transparentné prideľovanie dedičských
 
 ### § 163
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 163**
 >
 > Súd rozhoduje uznesením.
@@ -377,7 +377,7 @@ Rovnako ako pri iných typoch mimosporových konaní upravených v tejto časti 
 
 ### § 164
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 164**
 >
 > (1) V uznesení vydanom notárom sa okrem všeobecných náležitostí uvedie označenie súdu, ktorý notára poveril, a označenie notára, ktorý uznesenie vydal.
@@ -390,7 +390,7 @@ Ustanovenie dopĺňa všeobecné náležitosti uznesenia (upravené v Civilnom s
 
 ### § 165
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 165**
 >
 > Účastníkmi konania o dedičstve sú tí, o ktorých sa možno dôvodne domnievať, že sú poručiteľovými dedičmi.
@@ -399,7 +399,7 @@ Toto ustanovenie zakotvuje osobitný, dynamický spôsob vymedzenia okruhu úča
 
 ### § 166
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 166**
 >
 > (1) Ak má dedičstvo pripadnúť štátu ako odúmrť, je účastníkom štát.
@@ -410,7 +410,7 @@ Ustanovenie rozširuje okruh účastníkov aj o štát v dvoch typových situác
 
 ### § 167
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 167**
 >
 > Ak má byť konanie zastavené preto, že poručiteľ zanechal majetok nepatrnej hodnoty, je účastníkom aj ten, kto sa postaral o poručiteľov pohreb.
@@ -419,7 +419,7 @@ Ustanovenie zohľadňuje osobitný procesný mechanizmus podľa § 188, kde súd
 
 ### § 168
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 168**
 >
 > Veriteľ poručiteľa je účastníkom
@@ -434,7 +434,7 @@ Ustanovenie priznáva veriteľovi poručiteľa postavenie účastníka konania l
 
 ### § 169
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 169**
 >
 > Manžel poručiteľa je účastníkom v rozsahu vyporiadania bezpodielového spoluvlastníctva manželov.
@@ -443,7 +443,7 @@ Podobne ako pri veriteľovi, aj postavenie pozostalého manžela ako účastník
 
 ### § 170
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 170**
 >
 > Správca dedičstva je účastníkom, ak ide o ustanovenie správcu dedičstva, o úkony správy dedičstva a o odmenu správcu dedičstva.
@@ -452,7 +452,7 @@ Aj v tomto prípade ide o funkčne obmedzené postavenie účastníka — správ
 
 ### § 171
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 171**
 >
 > Notár je účastníkom v časti týkajúcej sa jeho odmeny a hotových výdavkov.
@@ -461,7 +461,7 @@ Hoci notár v konaní vystupuje predovšetkým ako poverený súdny komisár (§
 
 ### § 172
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 172**
 >
 > (1) Ak v priebehu konania zomrie dedič poručiteľa, koná súd s tými, o ktorých sa možno dôvodne domnievať, že sú dedičmi zomretého dediča.
@@ -480,7 +480,7 @@ Odsek 4 rozširuje tento mechanizmus primerane aj na situáciu, keď počas kona
 
 ### § 173 — Povinnosť orgánu, ktorý vedie matriku
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 173 — Povinnosť orgánu, ktorý vedie matriku**
 >
 > Orgán, ktorý vedie matriku, oznámi úmrtie vo svojom matričnom obvode súdu príslušnému na konanie o dedičstve.
@@ -489,7 +489,7 @@ Ustanovenie zakotvuje oznamovaciu povinnosť matričného orgánu, ktorá je nev
 
 ### § 174 — Začatie konania
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 174 — Začatie konania**
 >
 > (1) Konanie je začaté na návrh, ak je z neho zjavné, že navrhovateľ ako dedič žiada prejednanie dedičstva po poručiteľovi.
@@ -506,7 +506,7 @@ Odsek 3 stanovuje výnimku zo všeobecnej povinnosti doručovať rozhodnutia —
 
 ### § 175 — Predbežné vyšetrenie
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 175 — Predbežné vyšetrenie**
 >
 > V predbežnom vyšetrení vykoná súd všetky potrebné úkony na zistenie dedičov, poručiteľovho majetku a jeho dlhov, prípadne zisťuje, či treba urobiť aj neodkladné úkony.
@@ -517,7 +517,7 @@ Predbežné vyšetrenie predstavuje prvú, prípravnú fázu dedičského konani
 
 ### § 176
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 176**
 >
 > (1) Súd bezodkladne vykoná vyšetrenie v evidencii, ktorá je vedená v Notárskom centrálnom registri závetov, či je v nej evidovaný závet poručiteľa, listina o vydedení alebo odvolanie týchto úkonov, alebo vyhlásenie o voľbe práva podľa osobitného predpisu (ďalej len „závet“), a u ktorého notára je uložený.
@@ -530,7 +530,7 @@ Odsek 2 upravuje procesný postup pri zistení, že závet existuje — súd mus
 
 ### § 177
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 177**
 >
 > Súd umožní nahliadnuť do závetu tomu, kto osvedčí, že má na tom právny záujem.
@@ -539,7 +539,7 @@ Ustanovenie vyvažuje záujem na ochrane súkromia obsahu závetu (ktorý môže
 
 ### § 178
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 178**
 >
 > Po právoplatnom skončení konania sa založí originál závetu, ak závet nie je spísaný vo forme notárskej zápisnice, do zbierky vyhlásených závetov vedenej na okresnom súde.
@@ -550,7 +550,7 @@ Ustanovenie zabezpečuje trvalú archiváciu originálu závetu po skončení ko
 
 ### § 179
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 179 — Neodkladné úkony**
 >
 > Ak treba, urobí súd aj bez návrhu neodkladné úkony, najmä zabezpečí dedičstvo, vykoná súpis na mieste samom, zverí veci osobnej potreby manželovi poručiteľa alebo inému členovi domácnosti, postará sa o predaj vecí, ktoré nemožno uschovať bez nebezpečenstva škody alebo nepomerných nákladov, prípadne ustanoví správcu dedičstva alebo jeho časti.
@@ -561,7 +561,7 @@ Ustanovenie priznáva súdu širokú právomoc konať ex offo v naliehavých sit
 
 ### § 180
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 180**
 >
 > (1) Zabezpečenie vecí patriacich do dedičstva sa vykoná najmä ich uložením do úschovy u notára, ktorý koná ako súdny komisár, alebo uložením u uschovávateľa, alebo zapečatením v poručiteľovom byte alebo na inom vhodnom mieste.
@@ -576,7 +576,7 @@ Odseky 2 a 3 riešia zabezpečenie majetkových hodnôt inej než hnuteľnej pov
 
 ### § 181
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 181**
 >
 > Pri predaji hnuteľných vecí, ktoré nemožno uschovať bez nebezpečenstva škody alebo nepomerných nákladov, postupuje súd primerane podľa ustanovení o likvidácii dedičstva.
@@ -587,7 +587,7 @@ Ustanovenie rieši technickú otázku procesného postupu pri predaji rýchlo po
 
 ### § 182
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 182**
 >
 > (1) Správcu dedičstva alebo jeho časti ustanoví súd najmä z okruhu dedičov alebo z okruhu osôb blízkych poručiteľovi; za správcu dedičstva môže byť ustanovený aj notár, ak v tomto konaní nie je súdnym komisárom. Ak je predmetom dedenia podnik, ustanoví súd za správcu dedičstva osobu, ktorá má skúsenosť s vedením podniku.
@@ -602,7 +602,7 @@ Odsek 2 umožňuje ustanoviť za správcu priamo štát v prípadoch smerujúcic
 
 ### § 183
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 183**
 >
 > (1) V uznesení o ustanovení správcu dedičstva vymedzí súd rozsah spravovaného majetku a uvedie účel, na ktorý bol správca dedičstva ustanovený.
@@ -615,7 +615,7 @@ Odsek 2 určuje okamih vzniku správcovskej funkcie viazaný na doručenie uznes
 
 ### § 184
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 184**
 >
 > (1) Správca dedičstva vykonáva úkony nevyhnutné na zachovanie majetkových hodnôt patriacich do dedičstva, a to v rozsahu vymedzenom súdom.
@@ -630,7 +630,7 @@ Odsek 2 stanovuje kvalifikovaný štandard starostlivosti (odbornú starostlivos
 
 ### § 185
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 185**
 >
 > (1) Z dôležitých dôvodov môže súd uznesením zbaviť správcu dedičstva funkcie; podľa povahy veci môže ustanoviť nového správcu dedičstva.
@@ -641,7 +641,7 @@ Odsek 1 dáva súdu právomoc predčasne ukončiť funkciu správcu z dôležit�
 
 ### § 186
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 186**
 >
 > (1) Funkcia správcu dedičstva zaniká právoplatnosťou uznesenia, ktorým sa konanie končí.
@@ -660,7 +660,7 @@ Odsek 3 upravuje záverečné zúčtovanie — správca musí predložiť koneč
 
 ### § 187
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 187**
 >
 > (1) Súd konanie zastaví, ak poručiteľ nezanechal žiadny majetok.
@@ -671,7 +671,7 @@ Odsek 1 zakotvuje logický dôvod na zastavenie konania — ak poručiteľ nezan
 
 ### § 188
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 188**
 >
 > (1) Ak poručiteľ zanechal majetok nepatrnej hodnoty alebo ak majetok poručiteľa nedosahuje výšku primeraných nákladov spojených s pohrebom poručiteľa, môže ho súd vydať tomu, kto sa postaral o pohreb, a konanie o dedičstve zastaviť.
@@ -688,7 +688,7 @@ Odsek 2 stanovuje dve výnimky, keď sa tento zjednodušený postup neuplatní �
 
 ### § 189
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 189**
 >
 > (1) Ak konanie nebolo zastavené, upovedomí súd tých, o ktorých sa možno dôvodne domnievať, že sú dedičmi, o ich dedičskom práve a o možnosti dedičstvo odmietnuť v lehote jedného mesiaca odo dňa, keď súd dediča o práve dedičstvo odmietnuť upovedomil; túto lehotu môže súd z dôležitých dôvodov predĺžiť. Súčasne dedičov poučí o náležitostiach a o účinkoch odmietnutia dedičstva.
@@ -705,7 +705,7 @@ Odsek 3 rieši situáciu, keď sa upovedomenie nepodarí doručiť ani pri vynal
 
 ### § 190
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 190**
 >
 > (1) Ak nie je známy ten, o kom sa možno dôvodne domnievať, že je poručiteľovým dedičom, alebo ak nie je známy jeho pobyt, súd mu ustanoví procesného opatrovníka. O jeho dedičskom práve ho upovedomí verejnou vyhláškou. Vo verejnej vyhláške ho súd vyzve, aby sa prihlásil na súde alebo u procesného opatrovníka v lehote nie kratšej ako jeden mesiac od zverejnenia verejnej vyhlášky na úradnej tabuli súdu a poučí ho o následkoch, ak sa neprihlási včas.
@@ -720,7 +720,7 @@ Odsek 2 upravuje spôsob publikácie — kombináciu formálneho doručenia osta
 
 ### § 191 — Pojednávanie
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 191 — Pojednávanie**
 >
 > (1) Pred vydaním uznesenia o spornom dedičskom práve, uznesenia o vyporiadaní bezpodielového spoluvlastníctva manželov, uznesenia o dedičstve a uznesenia o nariadení likvidácie dedičstva nariadi súd pojednávanie.
@@ -739,7 +739,7 @@ Odsek 3 zakotvuje výnimku z povinnosti nariadiť pojednávanie tam, kde je vec 
 
 ### § 192
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 192**
 >
 > Ak niekto pred potvrdením nadobudnutia dedičstva tvrdí, že je dedičom, a popiera dedičské právo iného dediča, ktorý dedičstvo neodmietol, ide o spor o dedičské právo.
@@ -748,7 +748,7 @@ Ustanovenie definuje legálny pojem „spor o dedičské právo" — situáciu, 
 
 ### § 193
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 193**
 >
 > (1) Ak rozhodnutie sporu o dedičskom práve závisí iba na právnom posúdení skutočností, ktoré medzi účastníkmi nie sú sporné, súd uznesením rozhodne, s ktorým účastníkom bude ďalej konať a ktorému účastníkovi účasť v konaní o dedičstve ukončuje.
@@ -763,7 +763,7 @@ Odsek 2 zabezpečuje, že aj účastník, ktorého účasť sa uznesením ukonč
 
 ### § 194
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 194**
 >
 > (1) Ak rozhodnutie o dedičskom práve závisí od zistenia sporných skutočností, odkáže súd uznesením po márnom pokuse o zmier toho z dedičov, ktorého dedičské právo sa javí ako menej pravdepodobné, aby určenie spornej skutočnosti uplatnil žalobou. Na podanie žaloby určí lehotu, ktorá nesmie byť kratšia ako jeden mesiac.
@@ -782,7 +782,7 @@ Odsek 3 zakotvuje procesnú fikciu v prospech dediča, ktorého dedičské práv
 
 ### § 195
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 195**
 >
 > (1) Ak zaniklo manželstvo poručiteľa jeho smrťou alebo vyhlásením za mŕtveho, vyporiada sa bezpodielové spoluvlastníctvo manželov v konaní o dedičstve po poručiteľovi.
@@ -805,7 +805,7 @@ Odsek 4 kladie na výsledný dokument (dohodu alebo rozhodnutie) obsahové poži
 
 ### § 196
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 196**
 >
 > Ak zaniklo bezpodielové spoluvlastníctvo manželov za života poručiteľa, vyporiada sa podľa § 195, ak toto spoluvlastníctvo nebolo ku dňu smrti poručiteľa vyporiadané a ak sa o jeho vyporiadaní nezačalo za života poručiteľa konanie na súde na základe žaloby.
@@ -816,7 +816,7 @@ Ustanovenie rieši situáciu, keď bezpodielové spoluvlastníctvo manželov zan
 
 ### § 197
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 197**
 >
 > Súd zistí majetok a dlhy poručiteľa a vykoná ich súpis.
@@ -825,7 +825,7 @@ Ustanovenie zakotvuje jednu zo základných povinností súdu (notára) v dedič
 
 ### § 198
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 198**
 >
 > (1) Ak sú majetok alebo dlhy medzi účastníkmi sporné, obmedzí sa súd len na zistenie ich spornosti; pri výpočte čistej hodnoty dedičstva na ne neprihliada.
@@ -838,7 +838,7 @@ Odsek 2 stanovuje výnimku pre prípad, keď o spornej skutočnosti už bolo roz
 
 ### § 199
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 199**
 >
 > (1) Na návrh dedičov vydá súd uznesenie, v ktorom vyzve veriteľov, aby mu oznámili svoje pohľadávky v lehote, ktorú v uznesení určí a ktorá nesmie byť kratšia ako jeden mesiac.
@@ -849,7 +849,7 @@ Ustanovenie umožňuje dedičom (na ich návrh, teda nie z úradnej moci) inicio
 
 ### § 200
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 200**
 >
 > (1) Na základe súpisu majetku a dlhov poručiteľa súd uznesením určí všeobecnú hodnotu majetku, výšku dlhov a čistú hodnotu dedičstva, prípadne výšku jeho predlženia v čase smrti poručiteľa.
@@ -866,7 +866,7 @@ Odsek 3 pripúšťa zmenu už vydaného oceňovacieho uznesenia aj bez návrhu (
 
 ### § 201
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 201**
 >
 > Dedičia môžu veci patriace do dedičstva počas konania scudziť alebo urobiť iné opatrenia presahujúce rámec obvyklého hospodárenia len so súhlasom súdu.
@@ -877,7 +877,7 @@ Ustanovenie obmedzuje dispozičnú voľnosť dedičov s vecami patriacimi do (e�
 
 ### § 202
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 202**
 >
 > Dedičia a veritelia sa môžu dohodnúť o tom, že predlžené dedičstvo sa prenechá veriteľom na úhradu dlhov. Súd túto dohodu schváli, ak neodporuje osobitnému predpisu; ak dohodu neschváli, pokračuje v konaní po právoplatnosti uznesenia.
@@ -886,7 +886,7 @@ Ustanovenie upravuje alternatívny (mimosúdny, zmluvný) spôsob vyriešenia pr
 
 ### § 203
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 203**
 >
 > (1) Súd v uznesení o dedičstve
@@ -911,7 +911,7 @@ Odsek 2 umožňuje procesnú hospodárnosť spojením viacerých súvisiacich ro
 
 ### § 204
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 204**
 >
 > (1) Prejednanie dedičstva je skončené právoplatnosťou uznesenia podľa § 203.
@@ -926,7 +926,7 @@ Odsek 2 ukladá súdu povinnosť formálne zrušiť predtým vykonané zabezpeč
 
 ### § 205
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 205**
 >
 > (1) Ak je dedičstvo predlžené a ak nedôjde k dohode dedičov a veriteľov o jeho prenechaní veriteľom na úhradu dlhov podľa § 202, môže súd aj bez návrhu uznesením nariadiť likvidáciu dedičstva.
@@ -945,7 +945,7 @@ Odsek 3 upravuje procesný postup pri samotnom nariadení likvidácie — analog
 
 ### § 206
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 206**
 >
 > (1) Právoplatnosťou uznesenia o nariadení likvidácie dedičstva sa exekučné konanie na majetok poručiteľa zastavuje.
@@ -960,7 +960,7 @@ Odseky 2 a 3 riešia prechodné situácie pri prebiehajúcej dražbe nehnuteľno
 
 ### § 207
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 207**
 >
 > (1) Likvidáciu dedičstva súd vykoná speňažením všetkého poručiteľovho majetku.
@@ -979,7 +979,7 @@ Odsek 4 rieši reziduálnu situáciu neúspešného speňaženia (napríklad pre
 
 ### § 208
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 208**
 >
 > (1) Súd vykoná rozvrh výťažku speňaženia majetku poručiteľa medzi veriteľov.
@@ -990,7 +990,7 @@ Odsek 1 upravuje záverečnú fázu likvidácie — rozdelenie speňaženého v�
 
 ### § 209
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 209**
 >
 > Právoplatným skončením likvidácie zanikajú proti dedičom neuspokojené pohľadávky veriteľov. Ak sa objaví ďalší poručiteľov majetok, rozdelí ho súd veriteľom do výšky ich neuspokojených pohľadávok bez zreteľa na tento zánik. Ak zostane majetkový prebytok, prejedná ho súd ako dedičstvo.
@@ -1003,7 +1003,7 @@ Druhá veta však stanovuje dôležitú výnimku pre prípad dodatočne objaven�
 
 ### § 210
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 210**
 >
 > Ak sa dodatočne zistí, že poručiteľ žije alebo ak bolo zrušené jeho vyhlásenie za mŕtveho, zruší súd uznesenie o dedičstve podľa § 202 a 203.
@@ -1012,7 +1012,7 @@ Ustanovenie rieši mimoriadnu, no právne významnú situáciu, keď sa po skon�
 
 ### § 211
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 211**
 >
 > (1) Ak sa objaví po právoplatnosti uznesenia, ktorým sa konanie o dedičstve skončilo, ďalší poručiteľov majetok, prípadne aj dlh, súd na návrh vykoná o tomto majetku dodatočné konanie o dedičstve. Ak sa objaví iba dlh poručiteľa, dodatočné konanie o dedičstve sa nevykoná.
@@ -1027,7 +1027,7 @@ Odsek 2 rozširuje možnosť iniciovať dodatočné konanie aj z úradnej moci v
 
 ### § 212
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 212**
 >
 > (1) Nezaradenie majetku alebo dlhov, ktoré boli medzi účastníkmi sporné, do dedičstva nebráni účastníkom, aby sa domáhali svojho práva žalobou.
@@ -1040,7 +1040,7 @@ Odsek 2 rieši širšiu otázku právnej ochrany osôb, ktoré neboli účastní
 
 ### § 213
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 213**
 >
 > (1) Ak prejednanie dedičstva nepatrí do právomoci súdu Slovenskej republiky, vykoná súd predbežné vyšetrenie a vydá účastníkom na ich žiadosť úradné potvrdenie o výsledku tohto vyšetrenia.
@@ -1055,7 +1055,7 @@ Odsek 2 upravuje informačnú povinnosť voči tuzemským dedičom a veriteľom 
 
 ### § 214
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 214**
 >
 > Orgánom štátu pôvodu s právomocou vydať európske osvedčenie o dedičstve je notár poverený súdom na konanie o dedičstve. Po skončení konania o dedičstve je ním notár, ktorý bol poverený na konanie o dedičstve. Ak takého notára niet, poverí súd na konanie o žiadosti o vydanie európskeho osvedčenia o dedičstve notára spôsobom podľa § 162.
@@ -1064,7 +1064,7 @@ Ustanovenie implementuje požiadavky práva Európskej únie (nariadenia o euró
 
 ### § 215
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 215**
 >
 > (1) Ak notár na základe žiadosti vydá európske osvedčenie o dedičstve, zaregistruje ho v Notárskom centrálnom registri listín.
@@ -1077,7 +1077,7 @@ Odsek 2 upravuje procesný postup pre negatívny výsledok — ak podmienky na v
 
 ### § 216
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 216**
 >
 > (1) Osoba oprávnená podľa osobitného predpisu môže navrhnúť, aby súd určil, že vydané európske osvedčenie o dedičstve nezodpovedá skutočnosti.
@@ -1088,7 +1088,7 @@ Ustanovenie zakotvuje dvojicu opravných (preskúmavacích) mechanizmov voči ro
 
 ### § 217
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 217**
 >
 > Notár upovedomí osoby oprávnené podľa osobitného predpisu o
@@ -1103,7 +1103,7 @@ Ustanovenie dopĺňa informačnú (upovedomovaciu) povinnosť notára aj o ďal�
 
 ### § 218
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 218**
 >
 > (1) Osoba oprávnená podľa osobitného predpisu môže navrhnúť, aby súd určil, že oprava, zmena alebo odvolanie európskeho osvedčenia o dedičstve alebo pozastavenie jeho účinkov, je nedôvodné.
@@ -1114,7 +1114,7 @@ Ustanovenie zrkadlovo dopĺňa opravné mechanizmy z § 216 aj vo vzťahu k úko
 
 ### § 219
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 219**
 >
 > (1) O návrhoch podľa § 216 a 218 rozhoduje súd uznesením. Odvolanie proti tomuto uzneseniu je prípustné.
@@ -1131,7 +1131,7 @@ Odsek 2 kvalifikuje tieto návrhy z hľadiska práva Európskej únie ako „opr
 
 ### § 220 — Miestna príslušnosť súdu
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 220 — Miestna príslušnosť súdu**
 >
 > Na konanie o vyhlásenie za mŕtveho je miestne príslušný všeobecný súd toho, kto má byť vyhlásený za mŕtveho.
@@ -1140,7 +1140,7 @@ Ustanovenie zakotvuje jednoduché pravidlo miestnej príslušnosti naviazané na
 
 ### § 221
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 221**
 >
 > (1) Návrh na začatie konania môže podať ten, kto má na veci právny záujem.
@@ -1153,7 +1153,7 @@ Odsek 2 rieši situáciu, keď smrť je síce prakticky istá (napríklad pri ka
 
 ### § 222
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 222**
 >
 > Súd ustanoví procesného opatrovníka fyzickej osobe, ktorá má byť vyhlásená za mŕtvu.
@@ -1162,7 +1162,7 @@ Ustanovenie procesného opatrovníka je tu logickým dôsledkom povahy konania �
 
 ### § 223
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 223**
 >
 > (1) Súd môže rozhodnúť bez nariadenia pojednávania.
@@ -1175,7 +1175,7 @@ Odsek 2 upravuje procesný dôsledok negatívneho zistenia — ak predpoklady na
 
 ### § 224
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 224**
 >
 > (1) Ak je isté, že fyzická osoba nežije, súd vyhlási fyzickú osobu za mŕtvu.
@@ -1188,7 +1188,7 @@ Odsek 2 kladie na výrok rozsudku požiadavku presnosti — musí obsahovať pre
 
 ### § 225
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 225**
 >
 > (1) Ak je vzhľadom na všetky okolnosti pravdepodobné, že fyzická osoba nežije, súd vydá verejnú vyhlášku, ktorou vyzve toho, kto má byť vyhlásený za mŕtveho, aby sa prihlásil do jedného roka.
@@ -1203,7 +1203,7 @@ Odsek 2 rozširuje účel verejnej vyhlášky aj na zbieranie informácií od tr
 
 ### § 226
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 226**
 >
 > (1) Súd verejnú vyhlášku zverejní na úradnej tabuli súdu a na webovej stránke príslušného súdu.
@@ -1214,7 +1214,7 @@ Odsek 1 stanovuje štandardný, povinný spôsob publikácie verejnej vyhlášky
 
 ### § 227
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 227**
 >
 > Súd podľa okolností prípadu vykoná úkony potrebné na zistenie, či je fyzická osoba nažive.
@@ -1223,7 +1223,7 @@ Ustanovenie zdôrazňuje vyšetrovací charakter tohto konania — súd nesmie z
 
 ### § 228
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 228**
 >
 > (1) Ak aj po uplynutí lehoty podľa § 225 ods. 1 je vzhľadom na všetky okolnosti pravdepodobné, že fyzická osoba nežije, súd vyhlási fyzickú osobu za mŕtvu.
@@ -1236,7 +1236,7 @@ Odsek 1 uzatvára procesný postup začatý verejnou vyhláškou podľa § 225 �
 
 ### § 229
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 229**
 >
 > Ak ten, kto bol vyhlásený za mŕtveho, zomrel v iný deň, ako je uvedený v rozsudku, súd aj bez návrhu vydá rozsudok, ktorým vykoná opravu.
@@ -1245,7 +1245,7 @@ Ustanovenie rieši situáciu, keď sa dodatočne preukáže, že skutočný deň
 
 ### § 230
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 230**
 >
 > Ak sa zistí, že ten, kto bol vyhlásený za mŕtveho, je nažive, súd aj bez návrhu začne konanie a vydá rozsudok, ktorým rozhodnutie o vyhlásení za mŕtveho zruší.
@@ -1256,7 +1256,7 @@ Ustanovenie rieši najzávažnejší prípad revízie pôvodného rozhodnutia �
 
 ### § 231
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 231**
 >
 > V konaní o spôsobilosti na právne úkony súd rozhoduje o
@@ -1271,7 +1271,7 @@ Ustanovenie má systematizačnú funkciu, obdobne ako § 135 pri osvojení — v
 
 ### § 232 — Miestna príslušnosť súdu
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 232 — Miestna príslušnosť súdu**
 >
 > Na konanie o spôsobilosti na právne úkony je miestne príslušný súd, v ktorého obvode má bydlisko ten, o koho spôsobilosti sa koná.
@@ -1280,7 +1280,7 @@ Ustanovenie stanovuje miestnu príslušnosť naviazanú na bydlisko osoby, o kto
 
 ### § 233
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 233**
 >
 > (1) Návrh na začatie konania môže podať blízka osoba, poskytovateľ zdravotnej starostlivosti, poskytovateľ sociálnych služieb alebo ten, kto má na veci právny záujem.
@@ -1293,7 +1293,7 @@ Odsek 2 osobitne zdôrazňuje, že aj samotná dotknutá osoba môže iniciovať
 
 ### § 234
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 234**
 >
 > Návrh na začatie konania musí obsahovať okrem všeobecných náležitostí podania opísanie skutočností odôvodňujúcich zásah do spôsobilosti fyzickej osoby na právne úkony a zdôvodnenie, že iné menej obmedzujúce opatrenia nie sú možné alebo opísanie skutočností odôvodňujúcich zmenu obmedzenia spôsobilosti na právne úkony alebo skutočností odôvodňujúcich navrátenie spôsobilosti na právne úkony.
@@ -1302,7 +1302,7 @@ Ustanovenie kladie na návrh zvýšené obsahové nároky presahujúce všeobecn
 
 ### § 235
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 235**
 >
 > (1) Ak návrh na začatie konania podáva ten, kto má na veci právny záujem, je náležitosťou návrhu aj opísanie skutočností odôvodňujúcich oprávnenie na podanie návrhu.
@@ -1317,7 +1317,7 @@ Odseky 2 a 3 zavádzajú procesný nástroj na overenie dôvodnosti návrhu ešt
 
 ### § 236
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 236**
 >
 > Účastníkmi konania o spôsobilosti na právne úkony sú navrhovateľ a ten, o koho spôsobilosti na právne úkony sa koná.
@@ -1326,7 +1326,7 @@ Základný okruh účastníkov je vymedzený úzko — navrhovateľ a dotknutá 
 
 ### § 237
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 237**
 >
 > Blízka osoba alebo ten, kto osvedčí právny záujem, môže navrhnúť, aby ho súd pribral ako účastníka do konania. Súd návrhu vyhovie, ak to považuje pre vedenie konania a pre ochranu dotknutých práv za účelné.
@@ -1335,7 +1335,7 @@ Ustanovenie umožňuje rozšírenie základného okruhu účastníkov podľa § 
 
 ### § 238
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 238**
 >
 > Súd podľa okolností prípadu zváži, či je o začatí konania potrebné informovať blízku osobu alebo orgán sociálnoprávnej ochrany detí a sociálnej kurately.
@@ -1344,7 +1344,7 @@ Ustanovenie ukladá súdu diskrečnú povinnosť zvážiť informovanie ďalší
 
 ### § 239
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 239**
 >
 > Ten, o koho spôsobilosti sa koná, má v konaní spôsobilosť samostatne konať pred súdom v plnom rozsahu.
@@ -1353,7 +1353,7 @@ Ide o zásadné procesné pravidlo chrániace dotknutú osobu — bez ohľadu na
 
 ### § 240
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 240**
 >
 > (1) Súd ustanoví procesného opatrovníka tomu, o koho spôsobilosti sa koná, ak nemá zákonného zástupcu.
@@ -1370,7 +1370,7 @@ Odsek 3 zdôrazňuje osobné právo dotknutej osoby byť informovaná o výsledk
 
 ### § 241
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 241**
 >
 > (1) Súd poučí osobu, o ktorej spôsobilosti sa koná, o jej procesných právach a povinnostiach, najmä o práve zvoliť si zástupcu.
@@ -1383,7 +1383,7 @@ Odsek 2 kladie na spôsob poučenia individualizovanú požiadavku — má zohľ
 
 ### § 242
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 242**
 >
 > Osoba, o ktorej spôsobilosti sa koná, môže požiadať, aby sa zúčastňoval konania jej dôverník, ktorý nie je jej zástupcom. O tejto možnosti ju súd poučí.
@@ -1392,7 +1392,7 @@ Ustanovenie zavádza osobitný inštitút dôverníka — osoby odlišnej od pro
 
 ### § 243
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 243**
 >
 > (1) Súd vyslúchne osobu, o ktorej spôsobilosti sa koná.
@@ -1409,7 +1409,7 @@ Odsek 3 stanovuje absolútne právo dotknutej osoby na výsluch, ak oň sama po�
 
 ### § 244
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 244**
 >
 > Súd v konaní ustanoví a vyslúchne znalca.
@@ -1418,7 +1418,7 @@ Ustanovenie zakotvuje povinné znalecké dokazovanie ako štandardnú súčasť 
 
 ### § 245
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 245**
 >
 > Na návrh znalca môže súd nariadiť, aby osoba, o ktorej spôsobilosti sa koná, bola najviac na štyri týždne umiestnená v zdravotníckom zariadení ústavnej zdravotnej starostlivosti (ďalej len „zdravotnícke zariadenie“), ak je to nevyhnutne potrebné na vyšetrenie jej zdravotného stavu.
@@ -1427,7 +1427,7 @@ Ustanovenie upravuje výnimočný, závažný zásah do osobnej slobody dotknute
 
 ### § 246
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 246**
 >
 > Od znaleckého dokazovania možno upustiť, ak súd na zistenie skutočného stavu veci považuje za postačujúce vyslúchnuť ošetrujúceho lekára.
@@ -1438,7 +1438,7 @@ Ustanovenie zavádza výnimku zo zásadne povinného znaleckého dokazovania pod
 
 ### § 247
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 247**
 >
 > (1) Ak nie sú splnené podmienky na obmedzenie spôsobilosti, zmenu obmedzenia spôsobilosti alebo navrátenie spôsobilosti, súd konanie zastaví.
@@ -1451,7 +1451,7 @@ Odsek 2 zavádza osobitný ochranný mechanizmus proti opakovaným, zjavne neopo
 
 ### § 248
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 248**
 >
 > (1) Konanie o obmedzení spôsobilosti na právne úkony je spojené s konaním o ustanovení opatrovníka podľa § 272 až 277.
@@ -1464,7 +1464,7 @@ Odsek 2 kladie na výrok rozsudku požiadavku konkrétnosti — súd nemôže ob
 
 ### § 249
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 249**
 >
 > (1) Ak sú dôvody na zmenu obmedzenia spôsobilosti na právne úkony alebo na navrátenie spôsobilosti na právne úkony, súd rozsudkom skôr vydaný rozsudok zmení alebo zruší.
@@ -1477,7 +1477,7 @@ Odsek 2 zakotvuje osobitný, retrospektívny dôvod zrušenia — zistenie, že 
 
 ### § 250
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 250**
 >
 > (1) Súd zabezpečí uloženie rozsudku o spôsobilosti na právne úkony v Notárskom centrálnom registri listín.
@@ -1490,7 +1490,7 @@ Odsek 2 rieši cezhraničný rozmer — uloženie cudzieho súdneho rozhodnutia 
 
 ### § 251 — Trovy konania
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 251 — Trovy konania**
 >
 > (1) Trovy dôkazov platí štát.
@@ -1505,7 +1505,7 @@ Odsek 2 naopak zavádza sankčný mechanizmus voči navrhovateľovi, ktorý pod�
 
 ### § 252 — Miestna príslušnosť súdu
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 252 — Miestna príslušnosť súdu**
 >
 > Na konanie o prípustnosti prevzatia a držania v zdravotníckom zariadení je miestne príslušný súd, v ktorého obvode je toto zdravotnícke zariadenie.
@@ -1514,7 +1514,7 @@ Ustanovenie odchylne od bežného kritéria bydliska dotknutej osoby (porovnaj �
 
 ### § 253
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 253**
 >
 > (1) Zdravotnícke zariadenie, v ktorom je osoba umiestnená z dôvodov uvedených v osobitnom predpise (ďalej len „umiestnený“), je povinné oznámiť súdu do 24 hodín prevzatie umiestneného bez jeho informovaného súhlasu. Oznamovaciu povinnosť má zdravotnícke zariadenie aj vtedy, ak umiestnený svoj informovaný súhlas odvolá, a to do 24 hodín od odvolania informovaného súhlasu.
@@ -1527,7 +1527,7 @@ Odsek 2 rozširuje oznamovaciu povinnosť aj na situácie, keď osoba bola síce
 
 ### § 254
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 254**
 >
 > (1) Návrh na začatie konania môže podať umiestnený.
@@ -1538,7 +1538,7 @@ Odsek 1 priznáva aktívnu legitimáciu predovšetkým samotnej umiestnenej osob
 
 ### § 255
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 255**
 >
 > (1) Účastníkom konania o prípustnosti prevzatia a držania v zdravotníckom zariadení je umiestnený a zdravotnícke zariadenie.
@@ -1549,7 +1549,7 @@ Odsek 1 vymedzuje základný, dvojstranný okruh účastníkov — umiestnenú o
 
 ### § 256
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 256**
 >
 > Súd môže ustanoviť procesného opatrovníka umiestnenému aj vtedy, ak to považuje za potrebné na ochranu jeho záujmov, najmä ak má pochybnosti, či má umiestnený spôsobilosť na právne úkony v plnom rozsahu.
@@ -1558,7 +1558,7 @@ Ustanovenie dáva súdu fakultatívnu (nie povinnú, na rozdiel od § 222 alebo 
 
 ### § 257
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 257**
 >
 > (1) Ak je umiestnený plnoletý, má v konaní spôsobilosť samostatne konať pred súdom v plnom rozsahu aj vtedy, ak nemá spôsobilosť na právne úkony v plnom rozsahu.
@@ -1571,7 +1571,7 @@ Toto ustanovenie je takmer doslovným zrkadlením § 239, § 240 ods. 2 a § 240
 
 ### § 258
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 258**
 >
 > (1) Umiestneného súd poučí o jeho procesných právach a povinnostiach, najmä o práve zvoliť si zástupcu.
@@ -1582,7 +1582,7 @@ Rovnako ako pri § 241 v konaní o spôsobilosti na právne úkony, aj tu zákon
 
 ### § 259
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 259**
 >
 > Umiestnený môže požiadať, aby sa zúčastňoval konania jeho dôverník, ktorý nie je jeho zástupcom. O tejto možnosti ho súd poučí.
@@ -1591,7 +1591,7 @@ Inštitút dôverníka, zavedený už pri konaní o spôsobilosti na právne úk
 
 ### § 260
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 260**
 >
 > (1) Súd umiestneného vyslúchne.
@@ -1604,7 +1604,7 @@ Ustanovenie je obsahovo takmer zhodné s § 243 upravujúcim výsluch osoby v ko
 
 ### § 261
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 261**
 >
 > Súd sa oboznámi s názorom ošetrujúceho lekára, prípadne ďalších osôb, ktoré môžu objasniť stav veci, a so zdravotnou dokumentáciou umiestneného.
@@ -1613,7 +1613,7 @@ Ustanovenie dopĺňa dokazovanie o povinnosť súdu oboznámiť sa s odborným l
 
 ### § 262
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 262**
 >
 > (1) Súd rozhodne o prípustnosti prevzatia do zdravotníckeho zariadenia uznesením bez nariadenia pojednávania.
@@ -1626,7 +1626,7 @@ Ustanovenie zdôrazňuje mimoriadnu naliehavosť tejto prvej fázy konania (pos�
 
 ### § 263
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 263**
 >
 > Zdravotnícke zariadenie umiestneného okamžite prepustí, ak súd rozhodol, že prevzatie do zdravotníckeho zariadenia bolo neprípustné.
@@ -1635,7 +1635,7 @@ Ustanovenie zakotvuje bezprostredný, automatický výkonný účinok negatívne
 
 ### § 264
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 264**
 >
 > Zdravotnícke zariadenie je vždy oprávnené umiestneného prepustiť, a to aj keď súd rozhodol, že prevzatie do zdravotníckeho zariadenia bolo prípustné.
@@ -1644,7 +1644,7 @@ Ustanovenie zdôrazňuje, že súdne rozhodnutie o prípustnosti prevzatia zakla
 
 ### § 265
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 265**
 >
 > Po právoplatnosti uznesenia, ktorým súd vyslovil, že prevzatie umiestneného do zdravotníckeho zariadenia bolo prípustné, pokračuje súd v konaní o prípustnosti držania v zdravotníckom zariadení.
@@ -1653,7 +1653,7 @@ Ustanovenie vyjasňuje dvojfázovú štruktúru celého konania — po (rýchlom
 
 ### § 266
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 266**
 >
 > (1) Súd na prejednanie veci nariadi pojednávanie.
@@ -1670,7 +1670,7 @@ Odsek 3 zabezpečuje procesnú kontinuitu odkazom na rovnaký štandard výsluch
 
 ### § 267
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 267**
 >
 > Uznesenie o prípustnosti držania v zdravotníckom zariadení musí byť vydané do troch mesiacov od právoplatnosti uznesenia o prípustnosti prevzatia do zdravotníckeho zariadenia.
@@ -1679,7 +1679,7 @@ Ustanovenie stanovuje záväznú (nie len poriadkovú v zmysle § 134) lehotu tr
 
 ### § 268
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 268**
 >
 > Zdravotnícke zariadenie umiestneného okamžite prepustí, ak súd rozhodol, že držanie v zdravotníckom zariadení je neprípustné.
@@ -1688,7 +1688,7 @@ Ustanovenie opakuje mechanizmus okamžitého prepustenia z § 263, tentoraz vo v
 
 ### § 269
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 269**
 >
 > (1) Najneskôr do uplynutia lehoty jedného roka od právoplatnosti uznesenia, ktorým súd vyslovil, že držanie v zdravotníckom zariadení je prípustné, súd rozhodne o začatí konania o prípustnosti ďalšieho držania v zdravotníckom zariadení za predpokladu, že umiestnenie trvá a toto konanie sa nezačalo už skôr na návrh.
@@ -1701,7 +1701,7 @@ Odsek 2 zabezpečuje procesnú jednotnosť odkazom na väčšinu predtým uprave
 
 ### § 270
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 270**
 >
 > (1) Umiestnený, jeho zvolený zástupca, jeho zákonný zástupca alebo blízka osoba môžu podať návrh na začatie konania o prípustnosti ďalšieho držania v zdravotníckom zariadení aj pred uplynutím lehoty podľa § 269 ods. 1.

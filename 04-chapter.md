@@ -2,7 +2,7 @@
 
 ### § 379 — Výzva na plnenie
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 379**
 >
 > **Výzva na plnenie**
@@ -23,7 +23,7 @@ Odsek 3 predstavuje výnimku odôvodnenú rizikom zmarenia výkonu rozhodnutia �
 
 ### § 380
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 380**
 >
 > Pred uskutočnením výkonu rozhodnutia môže súd požiadať príslušný orgán sociálnoprávnej ochrany detí a sociálnej kurately, prípadne príslušný orgán obce o poskytnutie súčinnosti pri zisťovaní informácií o dôvodoch nepodrobenia sa rozhodnutiu a o poskytnutie súčinnosti pri preverení týchto dôvodov.
@@ -32,7 +32,7 @@ Ustanovenie dopĺňa procesný aparát prípravnej fázy výkonu rozhodnutia o m
 
 ### § 381
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 381**
 >
 > Ak je to účelné, môže súd pred uskutočnením výkonu rozhodnutia uložiť účastníkom účasť u mediátora zapísaného v registri mediátorov.
@@ -41,7 +41,7 @@ Ustanovenie zakotvuje možnosť súdu nariadiť účastníkom (spravidla rodičo
 
 ### § 382
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 382**
 >
 > (1) Ak výzva súdu na dobrovoľné splnenie povinnosti zostane bezvýsledná, súd môže uložiť povinnému pokutu do 1 000 eur.
@@ -54,7 +54,7 @@ Odsek 2 výslovne pripúšťa opakované ukladanie pokuty, a to za každé jedno
 
 ### § 383
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 383**
 >
 > (1) Ak výzva súdu na dobrovoľné splnenie povinnosti zostane bezvýsledná a ak to povaha veci pripúšťa, súd môže rozhodnúť o tom, že príslušný štátny orgán zastaví výplatu
@@ -73,7 +73,7 @@ Uskutočnenie výkonu rozhodnutia
 
 ### § 384
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 384**
 >
 > (1) Ak úkony a opatrenia súdu smerujúce k dobrovoľnému splneniu povinnosti zostali bezvýsledné, súd výkon rozhodnutia uskutoční.
@@ -92,7 +92,7 @@ Odsek 3 rieši časový aspekt uskutočniteľnosti výkonu rozhodnutia — posta
 
 ### § 385
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 385**
 >
 > (1) Súd písomne, elektronickými prostriedkami alebo telefonicky upovedomí oprávneného o mieste a čase uskutočnenia výkonu rozhodnutia.
@@ -105,7 +105,7 @@ Táto asymetria je zámerným a nevyhnutným prvkom úpravy, ktorý má zabráni
 
 ### § 386
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 386**
 >
 > (1) Súd odníme maloletého tomu, u koho podľa rozhodnutia nemá byť, a postará sa o jeho odovzdanie tomu, komu bol podľa rozhodnutia zverený, alebo tomu, komu rozhodnutie priznáva právo na styk s maloletým po obmedzený čas, alebo tomu, kto je oprávnený neoprávnene premiestneného alebo zadržaného maloletého prevziať.
@@ -118,7 +118,7 @@ Odsek 2 rieši personálnu otázku vykonávateľa odňatia — sudca môže tout
 
 ### § 387
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 387**
 >
 > Súd je oprávnený zabezpečiť vstup do obydlia a vykonať opatrenia na odňatie maloletého.
@@ -127,7 +127,7 @@ Ustanovenie priznáva súdu oprávnenie zabezpečiť vstup do obydlia (bytu, dom
 
 ### § 388
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 388**
 >
 > (1) Každý je povinný poskytnúť súdu súčinnosť a informácie na objasnenie skutočností dôležitých pre výkon rozhodnutia.
@@ -152,7 +152,7 @@ Odsek 4 tieto povinnosti zaisťuje poriadkovou pokutou do 1 000 eur, ktorú súd
 
 ### § 389 — Odklad výkonu rozhodnutia
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 389**
 >
 > **Odklad výkonu rozhodnutia**
@@ -173,7 +173,7 @@ Odsek 3 dopĺňa taxatívny výpočet o generálny odkaz na osobitné predpisy, 
 
 ### § 390 — Zastavenie výkonu rozhodnutia
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 390**
 >
 > **Zastavenie výkonu rozhodnutia**
@@ -208,7 +208,7 @@ Odsek 3 zavádza osobitnú kontrolnú a evidenčnú povinnosť pri konaniach o n
 
 ### § 391 — Trovy konania
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 391**
 >
 > **Trovy konania**
@@ -225,7 +225,7 @@ Spoločné ustanovenia
 
 ### § 392 — Splnomocňovacie ustanovenie
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 392**
 >
 > **Splnomocňovacie ustanovenie**
@@ -236,7 +236,7 @@ Ustanovenie otvára piatu, záverečnú časť zákona a obsahuje splnomocňovac
 
 ### § 393
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 393**
 >
 > Ak sa konanie podľa tohto zákona týka utajovaných skutočností, citlivých informácií a skutočností chránených podľa osobitného predpisu, použijú sa ustanovenia tohto zákona, ak osobitný predpis neustanovuje inak.
@@ -245,7 +245,7 @@ Ustanovenie rieši vzťah Civilného mimosporového poriadku k osobitným predpi
 
 ### § 394
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 394**
 >
 > Poriadkové pokuty a pokuty uložené podľa tohto zákona sú príjmom štátneho rozpočtu.
@@ -256,7 +256,7 @@ Prechodné ustanovenia
 
 ### § 395
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 395**
 >
 > (1) Ak § 396 neustanovuje inak, platí tento zákon aj na konania začaté predo dňom nadobudnutia jeho účinnosti.
@@ -275,7 +275,7 @@ Odsek 3 rieši osobitne citlivú otázku plynutia procesných lehôt cez hranicu
 
 ### § 396
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 396**
 >
 > (1) Konania o dedičstve začaté predo dňom nadobudnutia účinnosti tohto zákona sa dokončia podľa doterajších predpisov.
@@ -296,7 +296,7 @@ Odsek 2 dopĺňa osobitné prechodné pravidlo týkajúce sa organizačného zab
 
 ### § 396a — Prechodné ustanovenia k úpravám účinným od 1. októbra 2020
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 396a**
 >
 > **Prechodné ustanovenia k úpravám účinným od 1. októbra 2020**
@@ -313,7 +313,7 @@ Odsek 2 stanovuje obdobné pravidlo pre konania o zápise údajov do obchodného
 
 ### § 396b — Prechodné ustanovenie k úpravám účinným od 1. júna 2023
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 396b**
 >
 > **Prechodné ustanovenie**
@@ -328,7 +328,7 @@ Výnimku z tohto pravidla predstavuje situácia, keď podľa osobitného predpis
 
 ### § 396c — Prechodné ustanovenia k úpravám účinným od 1. januára 2023
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 396c**
 >
 > **Prechodné ustanovenia k úpravám účinným od 1. januára 2023**
@@ -345,7 +345,7 @@ Odsek 2 rieši zložitejšiu situáciu, keď k rozhodnému dňu na súde prebieh
 
 ### § 396d — Prechodné ustanovenie k úprave účinnej od 1. októbra 2025
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 396d**
 >
 > **Prechodné ustanovenie k úprave účinnej od 1. októbra 2025**
@@ -356,7 +356,7 @@ Ustanovenie zakotvuje ďalšie z radu opakujúcich sa prechodných pravidiel, te
 
 ### § 396e — Prechodné ustanovenie k úpravám účinným od 17. augusta 2026
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 396e**
 >
 > **Prechodné ustanovenie**
@@ -369,7 +369,7 @@ Ustanovenie predstavuje najnovšie (chronologicky posledné) z prechodných usta
 
 ### § 397 — Účinnosť
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > **§ 397**
 >
 > **Účinnosť**
