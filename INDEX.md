@@ -1,0 +1,7 @@
+# INDEX — Komentár k zákonu č. 161/2015 Z. z., Civilný mimosporový poriadok
+
+- [00-uvod.md](00-uvod.md) — Úvod, metóda, základné údaje
+- [01-chapter.md](01-chapter.md) — Kapitola 01: Prvá časť — Všeobecné ustanovenia; Druhá časť, Prvá hlava — Konanie v prvej inštancii, všeobecné a osobitné ustanovenia (starostlivosť súdu o maloletých, poručníctvo, súhlas s uzavretím manželstva a i.) (§ 1 – § 132)
+- [02-chapter.md](02-chapter.md) — Kapitola 02: Konania vo veciach osvojenia, konanie vo veciach výživného plnoletých osôb; Druhá hlava — Konanie o dedičstve (vrátane európskeho osvedčenia o dedičstve); Tretia hlava — Konania v niektorých statusových veciach fyzických osôb (vyhlásenie za mŕtveho, spôsobilosť na právne úkony, prípustnosť prevzatia a držania v zdravotníckom zariadení) (§ 133 – § 270)
+- [03-chapter.md](03-chapter.md) — Kapitola 03: Konanie o ustanovení opatrovníka, konania v niektorých veciach právnických osôb (zrušenie obchodnej spoločnosti, riešenie hroziaceho úpadku), konanie o umorení listiny, konania vo veciach notárskych úschov, konanie o potvrdení vydržania, neodkladné a iné opatrenia súdu, začiatok úpravy výkonu rozhodnutia vo veciach maloletých (§ 271 – § 378)
+- [04-chapter.md](04-chapter.md) — Kapitola 04: Dokončenie úpravy výkonu rozhodnutia vo veciach maloletých (dobrovoľné splnenie, uskutočnenie výkonu, trovy konania); Piata časť — Spoločné, prechodné a záverečné ustanovenia (§ 379 – § 397)
